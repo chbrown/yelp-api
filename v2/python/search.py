@@ -1,115 +1,108 @@
-"""Command line interface to the Yelp Search API."""
-
+#!/usr/bin/env python
+import argparse
 import json
 import oauth2
-import optparse
+import os
+import pprint
+import requests
+import sys
 import urllib
-import urllib2
 
-parser = optparse.OptionParser()
-parser.add_option('-c', '--consumer_key', dest='consumer_key', help='OAuth consumer key (REQUIRED)')
-parser.add_option('-s', '--consumer_secret', dest='consumer_secret', help='OAuth consumer secret (REQUIRED)')
-parser.add_option('-t', '--token', dest='token', help='OAuth token (REQUIRED)')
-parser.add_option('-e', '--token_secret', dest='token_secret', help='OAuth token secret (REQUIRED)')
-parser.add_option('-a', '--host', dest='host', help='Host', default='api.yelp.com')
+parser = argparse.ArgumentParser(description='Yelp API v2 - Search',
+    formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 
-parser.add_option('-q', '--term', dest='term', help='Search term')
-parser.add_option('-l', '--location', dest='location', help='Location (address)')
-parser.add_option('-b', '--bounds', dest='bounds', help='Bounds (sw_latitude,sw_longitude|ne_latitude,ne_longitude)')
-parser.add_option('-p', '--point', dest='point', help='Latitude,longitude')
-# Not sure if current location hints are currently working
-parser.add_option('-i', '--current_location', dest='current_location', help='Current location latitude,longitude for location disambiguation')
+# General Search Parameters
+general = parser.add_argument_group('General Search Parameters')
+general.add_argument('--term', type=str,
+    help='''Search term (e.g. "food", "restaurants"). If term isn't included we search everything.''')
+general.add_argument('--limit', type=int,
+    help='''Number of business results to return''')
+general.add_argument('--offset', type=int,
+    help='''Offset the list of returned business results by this amount''')
+general.add_argument('--sort', type=int,
+    help='''Sort mode: 0=Best matched (default), 1=Distance, 2=Highest Rated. If the mode is 1 or 2 a search may retrieve an additional 20 businesses past the initial limit of the first 20 results. This is done by specifying an offset and limit of 20. Sort by distance is only supported for a location or geographic search. The rating sort is not strictly sorted by the rating value, but by an adjusted rating value that takes into account the number of ratings, similar to a bayesian average. This is so a business with 1 rating of 5 stars doesn't immediately jump to the top.''')
+general.add_argument('--category_filter', type=str,
+    help='''Category to filter search results with. See the list of supported categories. The category filter can be a list of comma delimited categories. For example, 'bars,french' will filter by Bars and French. The category identifier should be used (for example 'discgolf', not 'Disc Golf').''')
+general.add_argument('--radius_filter', type=int,
+    help='''Search radius in meters. If the value is too large, a AREA_TOO_LARGE error may be returned. The max value is 40000 meters (25 miles).''')
+general.add_argument('--deals_filter', action='store_true',
+    help='''Whether to exclusively search for businesses with deals''')
 
-parser.add_option('-o', '--offset', dest='offset', help='Offset (starting position)')
-parser.add_option('-r', '--limit', dest='limit', help='Limit (number of results to return)')
-parser.add_option('-u', '--cc', dest='cc', help='Country code')
-parser.add_option('-n', '--lang', dest='lang', help='Language code')
+# Locale Parameters
+locale = parser.add_argument_group('Locale Parameters')
+locale.add_argument('--cc', type=str,
+    help='''ISO 3166-1 alpha-2 country code. Default country to use when parsing the location field. United States = US, Canada = CA, United Kingdom = GB (not UK).''')
+locale.add_argument('--lang', type=str,
+    help='''ISO 639 language code (default=en). Reviews written in the specified language will be shown.''')
+locale.add_argument('--lang_filter', action='store_true',
+    help='''Whether to filter business reviews by the specified lang''')
 
-parser.add_option('-d', '--radius', dest='radius', help='Radius filter (in meters)')
-parser.add_option('-g', '--category', dest='category', help='Category filter')
-parser.add_option('-z', '--deals', dest='deals', help='Deals filter')
-parser.add_option('-m', '--sort', dest='sort', help='Sort')
+# Specify Location by Geographical Bounding Box
+boundingbox = parser.add_argument_group('Specify Location by Geographical Bounding Box')
+boundingbox.add_argument('--bounds', type=str,
+    help='''sw_latitude,sw_longitude|ne_latitude,ne_longitude''')
 
+# Specify Location by Geographic Coordinate
+geocoordinate = parser.add_argument_group('Specify Location by Geographic Coordinate')
+geocoordinate.add_argument('--ll', type=str,
+    help='''latitude,longitude,accuracy,altitude,altitude_accuracy''')
 
-options, args = parser.parse_args()
+# Specify Location by Neighborhood, Address, or City
+address = parser.add_argument_group('Specify Location by Neighborhood, Address, or City')
+address.add_argument('--location', type=str,
+    help='''Specifies the combination of "address, neighborhood, city, state or zip, optional country" to be used when searching for businesses.''')
+address.add_argument('--cll', type=str,
+    help='''An optional latitude, longitude parameter can also be specified as a hint to the geocoder to disambiguate the location text. The format for this is defined as: latitude,longitude''')
 
-# Required options
-if not options.consumer_key:
-    parser.error('--consumer_key required')
-if not options.consumer_secret:
-    parser.error('--consumer_secret required')
-if not options.token:
-    parser.error('--token required')
-if not options.token_secret:
-    parser.error('--token_secret required')
+# Local flags:
+local_flags = parser.add_argument_group('Local Flags')
+local_flags.add_argument('--json', action='store_true',
+    help='''Output business as json, one per line''')
+local_flags.add_argument('--depaginate', action='store_true',
+    help='''Start with limit =  through all the business as json, one per line''')
 
-if not options.location and not options.bounds and not options.point:
-    parser.error('--location, --bounds, or --point required')
+consumer = oauth2.Consumer(os.environ['YELP_CONSUMER_KEY'], os.environ['YELP_CONSUMER_SECRET'])
+token = oauth2.Token(os.environ['YELP_TOKEN'], os.environ['YELP_TOKEN_SECRET'])
 
-# Setup URL params from options
-url_params = {}
-if options.term:
-    url_params['term'] = options.term
-if options.location:
-    url_params['location'] = options.location
-if options.bounds:
-    url_params['bounds'] = options.bounds
-if options.point:
-    url_params['ll'] = options.point
-if options.offset:
-    url_params['offset'] = options.offset
-if options.limit:
-    url_params['limit'] = options.limit
-if options.cc:
-    url_params['cc'] = options.cc
-if options.lang:
-    url_params['lang'] = options.lang
-if options.current_location:
-    url_params['cll'] = options.current_location
-if options.radius:
-    url_params['radius_filter'] = options.radius
-if options.category:
-    url_params['category_filter'] = options.category
-if options.deals:
-    url_params['deals_filter'] = options.deals
-if options.sort:
-    url_params['sort'] = options.sort
+local_flags = ['json', 'depaginate']
 
 
-def request(host, path, url_params, consumer_key, consumer_secret, token, token_secret):
-    """Returns response for API request."""
-    # Unsigned URL
-    encoded_params = ''
-    if url_params:
-        encoded_params = urllib.urlencode(url_params)
-    url = 'http://%s%s?%s' % (host, path, encoded_params)
-    print 'URL: %s' % (url,)
-
-    # Sign the URL
-    consumer = oauth2.Consumer(consumer_key, consumer_secret)
+def get(params, json_output=False):
+    encoded_params = urllib.urlencode(params)
+    url = 'http://api.yelp.com/v2/search?%s' % encoded_params
+    print >> sys.stderr, 'url', url
     oauth_request = oauth2.Request('GET', url, {})
-    oauth_request.update({'oauth_nonce': oauth2.generate_nonce(),
-                          'oauth_timestamp': oauth2.generate_timestamp(),
-                          'oauth_token': token,
-                          'oauth_consumer_key': consumer_key})
+    oauth_request.update({
+        'oauth_nonce': oauth2.generate_nonce(),
+        'oauth_timestamp': oauth2.generate_timestamp(),
+        'oauth_token': token.key,
+        'oauth_consumer_key': consumer.key})
 
-    token = oauth2.Token(token, token_secret)
     oauth_request.sign_request(oauth2.SignatureMethod_HMAC_SHA1(), consumer, token)
     signed_url = oauth_request.to_url()
-    print 'Signed URL: %s\n' % (signed_url,)
 
-    # Connect
-    try:
-        conn = urllib2.urlopen(signed_url, None)
-        try:
-            response = json.loads(conn.read())
-        finally:
-            conn.close()
-    except urllib2.HTTPError, error:
-        response = json.loads(error.read())
+    response = requests.get(signed_url)
+    result = response.json()
 
-    return response
+    if json_output:
+        for business in result['businesses']:
+            print json.dumps(business)
+    else:
+        print pprint.pformat(result)
 
-response = request(options.host, '/v2/search', url_params,
-    options.consumer_key, options.consumer_secret, options.token, options.token_secret)
-print json.dumps(response, sort_keys=True, indent=2)
+
+def main():
+    opts = parser.parse_args()
+    params = dict((k, v) for k, v in opts.__dict__.items() if v and k not in local_flags)
+
+    if opts.depaginate:
+        params['limit'] = 20
+        for i in range(100):
+            params['offset'] = i*params['limit']
+            get(params, opts.json)
+    else:
+        get(params, opts.json)
+
+
+if __name__ == '__main__':
+    main()
