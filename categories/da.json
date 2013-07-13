@@ -1,0 +1,2754 @@
+[
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "bikeassociations",
+        "title": "Cykel foreninger"
+      },
+      {
+        "category": [],
+        "alias": "bikerepair",
+        "title": "Cykel reparation"
+      },
+      {
+        "category": [],
+        "alias": "bikeshop",
+        "title": "Cykelhandler"
+      },
+      {
+        "category": [],
+        "alias": "specialbikes",
+        "title": "Special cykler"
+      }
+    ],
+    "alias": "bicycles",
+    "title": "Cykler"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "wedding_planning",
+        "title": "Bryllupsplanlægning"
+      },
+      {
+        "category": [],
+        "alias": "boatcharters",
+        "title": "Bådcharter"
+      },
+      {
+        "category": [],
+        "alias": "catering",
+        "title": "Cateringvirksomhed"
+      },
+      {
+        "category": [],
+        "alias": "djs",
+        "title": "Dj's"
+      },
+      {
+        "category": [],
+        "alias": "partysupplies",
+        "title": "Festartikler"
+      },
+      {
+        "category": [],
+        "alias": "photographers",
+        "title": "Fotografer"
+      },
+      {
+        "category": [],
+        "alias": "hotels",
+        "title": "Hoteller"
+      },
+      {
+        "category": [],
+        "alias": "stationery",
+        "title": "Kort og papirvarer"
+      },
+      {
+        "category": [],
+        "alias": "personalchefs",
+        "title": "Personlige kokke"
+      },
+      {
+        "category": [],
+        "alias": "eventplanning",
+        "title": "Planlægning af arrangementer"
+      },
+      {
+        "category": [],
+        "alias": "venues",
+        "title": "Spillesteder og lokaler"
+      },
+      {
+        "category": [],
+        "alias": "videographers",
+        "title": "Videografer"
+      }
+    ],
+    "alias": "eventservices",
+    "title": "Eventplanlægning"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "propertymgmt",
+        "title": "Ejendomsadministration"
+      },
+      {
+        "category": [],
+        "alias": "realestateagents",
+        "title": "Ejendomsmæglere"
+      },
+      {
+        "category": [],
+        "alias": "realestatesvcs",
+        "title": "Ejendomsmæglerservice"
+      },
+      {
+        "category": [],
+        "alias": "homestaging",
+        "title": "Indretning af hjemmet"
+      },
+      {
+        "category": [],
+        "alias": "apartments",
+        "title": "Lejligheder"
+      },
+      {
+        "category": [],
+        "alias": "mortgagebrokers",
+        "title": "Prioritetslånsmæglere"
+      },
+      {
+        "category": [],
+        "alias": "university_housing",
+        "title": "Universitetsboliger"
+      }
+    ],
+    "alias": "realestate",
+    "title": "Fast ejendom"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "banks",
+        "title": "Banker & Andelslånekasser"
+      },
+      {
+        "category": [],
+        "alias": "paydayloans",
+        "title": "Check & Bankoverførsler"
+      },
+      {
+        "category": [],
+        "alias": "financialadvising",
+        "title": "Finansiel rådgivning"
+      },
+      {
+        "category": [],
+        "alias": "insurance",
+        "title": "Forsikring"
+      },
+      {
+        "category": [],
+        "alias": "investing",
+        "title": "Investering"
+      },
+      {
+        "category": [],
+        "alias": "taxservices",
+        "title": "Skat"
+      }
+    ],
+    "alias": "financialservices",
+    "title": "Finansielle serviceydelser"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "lighting",
+        "title": "Belysning"
+      },
+      {
+        "category": [],
+        "alias": "plumbing",
+        "title": "Blikkenslagere"
+      },
+      {
+        "category": [],
+        "alias": "buildingsupplies",
+        "title": "Byggematerialer"
+      },
+      {
+        "category": [],
+        "alias": "electricians",
+        "title": "Elektrikere"
+      },
+      {
+        "category": [],
+        "alias": "contractors",
+        "title": "Entreprenører"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "propertymgmt",
+            "title": "Ejendomsadministration"
+          },
+          {
+            "category": [],
+            "alias": "realestateagents",
+            "title": "Ejendomsmæglere"
+          },
+          {
+            "category": [],
+            "alias": "realestatesvcs",
+            "title": "Ejendomsmæglerservice"
+          },
+          {
+            "category": [],
+            "alias": "homestaging",
+            "title": "Indretning af hjemmet"
+          },
+          {
+            "category": [],
+            "alias": "apartments",
+            "title": "Lejligheder"
+          },
+          {
+            "category": [],
+            "alias": "mortgagebrokers",
+            "title": "Prioritetslånsmæglere"
+          },
+          {
+            "category": [],
+            "alias": "university_housing",
+            "title": "Universitetsboliger"
+          }
+        ],
+        "alias": "realestate",
+        "title": "Fast ejendom"
+      },
+      {
+        "category": [],
+        "alias": "televisionserviceproviders",
+        "title": "Fjernsynsudbydere"
+      },
+      {
+        "category": [],
+        "alias": "movers",
+        "title": "Flyttemænd"
+      },
+      {
+        "category": [],
+        "alias": "gardeners",
+        "title": "Gartnere"
+      },
+      {
+        "category": [],
+        "alias": "flooring",
+        "title": "Gulvlægning"
+      },
+      {
+        "category": [],
+        "alias": "handyman",
+        "title": "Gør det selv mand"
+      },
+      {
+        "category": [],
+        "alias": "home_inspectors",
+        "title": "Husvurdering"
+      },
+      {
+        "category": [],
+        "alias": "interiordesign",
+        "title": "Indretningsarkitektur"
+      },
+      {
+        "category": [],
+        "alias": "solarinstallation",
+        "title": "Installering af solenergi"
+      },
+      {
+        "category": [],
+        "alias": "isps",
+        "title": "Internetudbydere"
+      },
+      {
+        "category": [],
+        "alias": "windowsinstallation",
+        "title": "Isættelse af vinduer"
+      },
+      {
+        "category": [],
+        "alias": "landscapearchitects",
+        "title": "Landskabsarkitekter"
+      },
+      {
+        "category": [],
+        "alias": "landscaping",
+        "title": "Landskabsarkitektur"
+      },
+      {
+        "category": [],
+        "alias": "locksmiths",
+        "title": "Låsesmede"
+      },
+      {
+        "category": [],
+        "alias": "painters",
+        "title": "Malere"
+      },
+      {
+        "category": [],
+        "alias": "homecleaning",
+        "title": "Rengøring af hjemmet"
+      },
+      {
+        "category": [],
+        "alias": "securitysystems",
+        "title": "Sikkerhedssystemer"
+      },
+      {
+        "category": [],
+        "alias": "blinds",
+        "title": "Skodder og persienner"
+      },
+      {
+        "category": [],
+        "alias": "roofing",
+        "title": "Tagdækning"
+      },
+      {
+        "category": [],
+        "alias": "treeservices",
+        "title": "Træservice"
+      },
+      {
+        "category": [],
+        "alias": "carpetinstallation",
+        "title": "Tæppelægning"
+      },
+      {
+        "category": [],
+        "alias": "carpeting",
+        "title": "Tæpper"
+      },
+      {
+        "category": [],
+        "alias": "hvac",
+        "title": "Varme og aircondition"
+      },
+      {
+        "category": [],
+        "alias": "windowwashing",
+        "title": "Vinduespudsning"
+      }
+    ],
+    "alias": "homeservices",
+    "title": "Hus og hjem"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "arcades",
+        "title": "Arkader"
+      },
+      {
+        "category": [],
+        "alias": "movietheaters",
+        "title": "Biograf"
+      },
+      {
+        "category": [],
+        "alias": "gardens",
+        "title": "Botanisk have"
+      },
+      {
+        "category": [],
+        "alias": "festivals",
+        "title": "Festivaler"
+      },
+      {
+        "category": [],
+        "alias": "streetart",
+        "title": "Gadekunst"
+      },
+      {
+        "category": [],
+        "alias": "jazzandblues",
+        "title": "Jazz & Blues"
+      },
+      {
+        "category": [],
+        "alias": "casinos",
+        "title": "Kasinoer"
+      },
+      {
+        "category": [],
+        "alias": "musicvenues",
+        "title": "Koncertsteder"
+      },
+      {
+        "category": [],
+        "alias": "galleries",
+        "title": "Kunstgallerier"
+      },
+      {
+        "category": [],
+        "alias": "museums",
+        "title": "Museer"
+      },
+      {
+        "category": [],
+        "alias": "opera",
+        "title": "Opera & Ballet"
+      },
+      {
+        "category": [],
+        "alias": "sportsteams",
+        "title": "Professionelle sportshold"
+      },
+      {
+        "category": [],
+        "alias": "theater",
+        "title": "Scenekunst"
+      },
+      {
+        "category": [],
+        "alias": "social_clubs",
+        "title": "Sociale klubber"
+      },
+      {
+        "category": [],
+        "alias": "stadiumsarenas",
+        "title": "Stadioner & Arenaer"
+      },
+      {
+        "category": [],
+        "alias": "psychic_astrology",
+        "title": "Synske & Astrologer"
+      },
+      {
+        "category": [],
+        "alias": "wineries",
+        "title": "Vingårde"
+      }
+    ],
+    "alias": "arts",
+    "title": "Kunst og underholdning"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "petstore",
+        "title": "Dyrehandler"
+      },
+      {
+        "category": [],
+        "alias": "animalshelters",
+        "title": "Dyreinternater"
+      },
+      {
+        "category": [],
+        "alias": "vet",
+        "title": "Dyrlæger"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "groomer",
+            "title": "Dyrefrisører"
+          },
+          {
+            "category": [],
+            "alias": "pet_training",
+            "title": "Dyretræning"
+          },
+          {
+            "category": [],
+            "alias": "dogwalkers",
+            "title": "Hundeluftere"
+          },
+          {
+            "category": [],
+            "alias": "pet_sitting",
+            "title": "Pasning "
+          }
+        ],
+        "alias": "petservices",
+        "title": "Serviceydelser for kæledyr"
+      }
+    ],
+    "alias": "pets",
+    "title": "Kæledyr"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "auto_detailing",
+        "title": " Biltilbehør"
+      },
+      {
+        "category": [],
+        "alias": "servicestations",
+        "title": "Benzin- og tankstationer"
+      },
+      {
+        "category": [],
+        "alias": "autopartssupplies",
+        "title": "Bildele- og komponenter"
+      },
+      {
+        "category": [],
+        "alias": "car_dealers",
+        "title": "Bilforhandlere"
+      },
+      {
+        "category": [],
+        "alias": "autorepair",
+        "title": "Bilreparation"
+      },
+      {
+        "category": [],
+        "alias": "carwash",
+        "title": "Bilvask"
+      },
+      {
+        "category": [],
+        "alias": "tires",
+        "title": "Dæk"
+      },
+      {
+        "category": [],
+        "alias": "motorcycledealers",
+        "title": "Motorcykelforhandlere"
+      },
+      {
+        "category": [],
+        "alias": "parking",
+        "title": "Parkering"
+      },
+      {
+        "category": [],
+        "alias": "motorcyclerepair",
+        "title": "Reparation af motorcykler"
+      },
+      {
+        "category": [],
+        "alias": "towing",
+        "title": "Slæbebiler"
+      },
+      {
+        "category": [],
+        "alias": "bodyshops",
+        "title": "Værksted"
+      }
+    ],
+    "alias": "auto",
+    "title": "Køretøjer"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "junkremovalandhauling",
+        "title": "Afhentning af skrald"
+      },
+      {
+        "category": [],
+        "alias": "shipping_centers",
+        "title": "Afsendingscentre"
+      },
+      {
+        "category": [],
+        "alias": "funeralservices",
+        "title": "Bedemænd og kirkegårde"
+      },
+      {
+        "category": [],
+        "alias": "childcare",
+        "title": "Børnepasning"
+      },
+      {
+        "category": [],
+        "alias": "recyclingcenter",
+        "title": "Genbrugscenter"
+      },
+      {
+        "category": [],
+        "alias": "homeappliancerepair",
+        "title": "Hvidevarer og reparation"
+      },
+      {
+        "category": [],
+        "alias": "itservices",
+        "title": "IT-service og reparation"
+      },
+      {
+        "category": [],
+        "alias": "couriers",
+        "title": "Kurér- og leveringsservice"
+      },
+      {
+        "category": [],
+        "alias": "reupholstery",
+        "title": "Møbelpolstring"
+      },
+      {
+        "category": [],
+        "alias": "notaries",
+        "title": "Notarer"
+      },
+      {
+        "category": [],
+        "alias": "selfstorage",
+        "title": "Opbevaring/Lagerrum"
+      },
+      {
+        "category": [],
+        "alias": "copyshops",
+        "title": "Print og kopi"
+      },
+      {
+        "category": [],
+        "alias": "electronicsrepair",
+        "title": "Reparation af elektronik"
+      },
+      {
+        "category": [],
+        "alias": "watch_repair",
+        "title": "Reparation af ure"
+      },
+      {
+        "category": [],
+        "alias": "nonprofit",
+        "title": "Samfundstjeneste"
+      },
+      {
+        "category": [],
+        "alias": "screenprinting",
+        "title": "Serigrafi"
+      },
+      {
+        "category": [],
+        "alias": "pest_control",
+        "title": "Skadedyrsbekæmpelse"
+      },
+      {
+        "category": [],
+        "alias": "shoerepair",
+        "title": "Skomagere"
+      },
+      {
+        "category": [],
+        "alias": "sewingalterations",
+        "title": "Skrædder"
+      },
+      {
+        "category": [],
+        "alias": "snowremoval",
+        "title": "Snerydning"
+      },
+      {
+        "category": [],
+        "alias": "carpet_cleaning",
+        "title": "Tæpperensning"
+      },
+      {
+        "category": [],
+        "alias": "drycleaninglaundry",
+        "title": "Vaskerier"
+      },
+      {
+        "category": [],
+        "alias": "recording_studios",
+        "title": "Øvelokaler"
+      }
+    ],
+    "alias": "localservices",
+    "title": "Lokale serviceydelser"
+  },
+  {
+    "category": [],
+    "alias": "localflavor",
+    "title": "Lokale specialiteter"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "bagels",
+        "title": "Bagels"
+      },
+      {
+        "category": [],
+        "alias": "bakeries",
+        "title": "Bagerier"
+      },
+      {
+        "category": [],
+        "alias": "breweries",
+        "title": "Bryggerier"
+      },
+      {
+        "category": [],
+        "alias": "grocery",
+        "title": "Dagligvarer"
+      },
+      {
+        "category": [],
+        "alias": "desserts",
+        "title": "Desserter"
+      },
+      {
+        "category": [],
+        "alias": "donuts",
+        "title": "Donuts"
+      },
+      {
+        "category": [],
+        "alias": "streetvendors",
+        "title": "Gadesælgere"
+      },
+      {
+        "category": [],
+        "alias": "diyfood",
+        "title": "Hjemmelavet mad"
+      },
+      {
+        "category": [],
+        "alias": "internetcafe",
+        "title": "Internetcaféer"
+      },
+      {
+        "category": [],
+        "alias": "icecream",
+        "title": "Is og frozen yogurt"
+      },
+      {
+        "category": [],
+        "alias": "juicebars",
+        "title": "Juicebarer og smoothies"
+      },
+      {
+        "category": [],
+        "alias": "coffee",
+        "title": "Kaffe og te"
+      },
+      {
+        "category": [],
+        "alias": "convenience",
+        "title": "Købmænd og Kiosker"
+      },
+      {
+        "category": [],
+        "alias": "fooddeliveryservices",
+        "title": "Madudbringning"
+      },
+      {
+        "category": [],
+        "alias": "farmersmarket",
+        "title": "Marked"
+      },
+      {
+        "category": [],
+        "alias": "butcher",
+        "title": "Slagter"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "chocolate",
+            "title": "Chokoladebutikker"
+          },
+          {
+            "category": [],
+            "alias": "ethnicmarkets",
+            "title": "Etnisk mad"
+          },
+          {
+            "category": [],
+            "alias": "seafoodmarkets",
+            "title": "Fiskemarkeder"
+          },
+          {
+            "category": [],
+            "alias": "markets",
+            "title": "Frugt og grønt"
+          },
+          {
+            "category": [],
+            "alias": "healthmarkets",
+            "title": "Helsebutikker"
+          },
+          {
+            "category": [],
+            "alias": "herbsandspices",
+            "title": "Krydderurter og krydderier"
+          },
+          {
+            "category": [],
+            "alias": "cheese",
+            "title": "Ostebutikker"
+          },
+          {
+            "category": [],
+            "alias": "meats",
+            "title": "Slagtere"
+          },
+          {
+            "category": [],
+            "alias": "candy",
+            "title": "Slikbutikker"
+          }
+        ],
+        "alias": "gourmet",
+        "title": "Specialiteter"
+      },
+      {
+        "category": [],
+        "alias": "tea",
+        "title": "Te-saloner"
+      },
+      {
+        "category": [],
+        "alias": "wineries",
+        "title": "Vingårde"
+      },
+      {
+        "category": [],
+        "alias": "organic_stores",
+        "title": "Økologiske butikker"
+      },
+      {
+        "category": [],
+        "alias": "beer_and_wine",
+        "title": "Øl, vin og spiritus"
+      }
+    ],
+    "alias": "food",
+    "title": "Mad og drikke"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "radiostations",
+        "title": "Radiostationer"
+      },
+      {
+        "category": [],
+        "alias": "printmedia",
+        "title": "Trykte medier"
+      },
+      {
+        "category": [],
+        "alias": "televisionstations",
+        "title": "Tv-stationer"
+      }
+    ],
+    "alias": "massmedia",
+    "title": "Medier"
+  },
+  {
+    "category": [
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "pubs",
+            "title": "Bodegaer"
+          },
+          {
+            "category": [],
+            "alias": "gaybars",
+            "title": "Bøssebarer"
+          },
+          {
+            "category": [],
+            "alias": "champagne_bars",
+            "title": "Champagnebarer"
+          },
+          {
+            "category": [],
+            "alias": "cocktailbars",
+            "title": "Cocktailbarer"
+          },
+          {
+            "category": [],
+            "alias": "lounges",
+            "title": "Lounges"
+          },
+          {
+            "category": [],
+            "alias": "sportsbars",
+            "title": "Sportsbarer"
+          },
+          {
+            "category": [],
+            "alias": "hookah_bars",
+            "title": "Vandpibebar"
+          },
+          {
+            "category": [],
+            "alias": "wine_bars",
+            "title": "Vinbarer"
+          },
+          {
+            "category": [],
+            "alias": "divebars",
+            "title": "Værtshuse"
+          }
+        ],
+        "alias": "bars",
+        "title": "Barer"
+      },
+      {
+        "category": [],
+        "alias": "poolhalls",
+        "title": "Billardlokaler"
+      },
+      {
+        "category": [],
+        "alias": "comedyclubs",
+        "title": "Comedy Clubs"
+      },
+      {
+        "category": [],
+        "alias": "jazzandblues",
+        "title": "Jazz & Blues"
+      },
+      {
+        "category": [],
+        "alias": "karaoke",
+        "title": "Karaoke"
+      },
+      {
+        "category": [],
+        "alias": "musicvenues",
+        "title": "Koncertsteder"
+      },
+      {
+        "category": [],
+        "alias": "adultentertainment",
+        "title": "Kun for voksne"
+      },
+      {
+        "category": [],
+        "alias": "danceclubs",
+        "title": "Natklubber"
+      }
+    ],
+    "alias": "nightlife",
+    "title": "Natteliv"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "libraries",
+        "title": "Biblioteker"
+      },
+      {
+        "category": [],
+        "alias": "departmentsofmotorvehicles",
+        "title": "Køreskoler"
+      },
+      {
+        "category": [],
+        "alias": "policedepartments",
+        "title": "Politistationer"
+      },
+      {
+        "category": [],
+        "alias": "postoffices",
+        "title": "Postkontorer"
+      },
+      {
+        "category": [],
+        "alias": "landmarks",
+        "title": "Vartegn og historiske bygninger"
+      }
+    ],
+    "alias": "publicservicesgovt",
+    "title": "Offentlig service og forvaltning"
+  },
+  {
+    "category": [
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "employmentlawyers",
+            "title": "Arbejdslovgiving"
+          },
+          {
+            "category": [],
+            "alias": "estateplanning",
+            "title": "Bolig lovgivning"
+          },
+          {
+            "category": [],
+            "alias": "realestatelawyers",
+            "title": "Bolig lovgivning"
+          },
+          {
+            "category": [],
+            "alias": "general_litigation",
+            "title": "Generel retsproces"
+          },
+          {
+            "category": [],
+            "alias": "bankruptcy",
+            "title": "Konkurs lovgivning"
+          },
+          {
+            "category": [],
+            "alias": "personal_injury",
+            "title": "Skadeforsikring"
+          },
+          {
+            "category": [],
+            "alias": "divorce",
+            "title": "Skilsmisse- og familieret"
+          },
+          {
+            "category": [],
+            "alias": "criminaldefense",
+            "title": "Straffelovgivning"
+          },
+          {
+            "category": [],
+            "alias": "immigrationlawyers",
+            "title": "Udlændinge lovgiving"
+          }
+        ],
+        "alias": "lawyers",
+        "title": "Advokater"
+      },
+      {
+        "category": [],
+        "alias": "advertising",
+        "title": "Annoncering"
+      },
+      {
+        "category": [],
+        "alias": "employmentagencies",
+        "title": "Arbejdsformidlingskontor"
+      },
+      {
+        "category": [],
+        "alias": "architects",
+        "title": "Arkitekter"
+      },
+      {
+        "category": [],
+        "alias": "accountants",
+        "title": "Bogførere"
+      },
+      {
+        "category": [],
+        "alias": "boatrepair",
+        "title": "Båd reparation"
+      },
+      {
+        "category": [],
+        "alias": "graphicdesign",
+        "title": "Grafisk design"
+      },
+      {
+        "category": [],
+        "alias": "isps",
+        "title": "Internetudbydere"
+      },
+      {
+        "category": [],
+        "alias": "careercounseling",
+        "title": "Karriererådgivning"
+      },
+      {
+        "category": [],
+        "alias": "officecleaning",
+        "title": "Kontorrengøring"
+      },
+      {
+        "category": [],
+        "alias": "lifecoach",
+        "title": "Livscoach"
+      },
+      {
+        "category": [],
+        "alias": "marketing",
+        "title": "Marketing"
+      },
+      {
+        "category": [],
+        "alias": "publicrelations",
+        "title": "PR"
+      },
+      {
+        "category": [],
+        "alias": "privateinvestigation",
+        "title": "Privatdetektiver"
+      },
+      {
+        "category": [],
+        "alias": "videofilmproductions",
+        "title": "Video/filmproduktion"
+      },
+      {
+        "category": [],
+        "alias": "web_design",
+        "title": "Webdesign"
+      }
+    ],
+    "alias": "professional",
+    "title": "Professionelle serviceydelser"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "bedbreakfast",
+        "title": "Bed & Breakfast"
+      },
+      {
+        "category": [],
+        "alias": "carrental",
+        "title": "Biludlejning"
+      },
+      {
+        "category": [],
+        "alias": "campgrounds",
+        "title": "Campingpladser"
+      },
+      {
+        "category": [],
+        "alias": "hotels",
+        "title": "Hoteller"
+      },
+      {
+        "category": [],
+        "alias": "airports",
+        "title": "Lufthavne"
+      },
+      {
+        "category": [],
+        "alias": "guesthouses",
+        "title": "Pensionater"
+      },
+      {
+        "category": [],
+        "alias": "travelservices",
+        "title": "Rejseservice"
+      },
+      {
+        "category": [],
+        "alias": "trainstations",
+        "title": "Stationer"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "airlines",
+            "title": "Flyselskaber"
+          },
+          {
+            "category": [],
+            "alias": "limos",
+            "title": "Limousiner"
+          },
+          {
+            "category": [],
+            "alias": "publictransport",
+            "title": "Offentlig transport"
+          },
+          {
+            "category": [],
+            "alias": "taxis",
+            "title": "Taxaer"
+          },
+          {
+            "category": [],
+            "alias": "airport_shuttles",
+            "title": "Transport til lufthavnen"
+          }
+        ],
+        "alias": "transport",
+        "title": "Transport"
+      },
+      {
+        "category": [],
+        "alias": "tours",
+        "title": "Udflugter"
+      },
+      {
+        "category": [],
+        "alias": "rvrental",
+        "title": "Udlejning af campere"
+      },
+      {
+        "category": [],
+        "alias": "vacationrentalagents",
+        "title": "Udlejning af ferieboliger"
+      },
+      {
+        "category": [],
+        "alias": "hostels",
+        "title": "Vandrerhjem"
+      }
+    ],
+    "alias": "hotelstravel",
+    "title": "Rejse og transport"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "buddhist_temples",
+        "title": "Buddhistiske templer"
+      },
+      {
+        "category": [],
+        "alias": "hindu_temples",
+        "title": "Hindu templer"
+      },
+      {
+        "category": [],
+        "alias": "churches",
+        "title": "Kirker"
+      },
+      {
+        "category": [],
+        "alias": "mosques",
+        "title": "Moskéer"
+      },
+      {
+        "category": [],
+        "alias": "synagogues",
+        "title": "Synagoger"
+      }
+    ],
+    "alias": "religiousorgs",
+    "title": "Religiøse grupper"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "afghani",
+        "title": "Afghanisk"
+      },
+      {
+        "category": [],
+        "alias": "african",
+        "title": "Afrikansk"
+      },
+      {
+        "category": [],
+        "alias": "tradamerican",
+        "title": "Amerikansk"
+      },
+      {
+        "category": [],
+        "alias": "diners",
+        "title": "Amerikanske dinere"
+      },
+      {
+        "category": [],
+        "alias": "argentine",
+        "title": "Argentinsk"
+      },
+      {
+        "category": [],
+        "alias": "asianfusion",
+        "title": "Asiatisk fusion"
+      },
+      {
+        "category": [],
+        "alias": "basque",
+        "title": "Baskisk"
+      },
+      {
+        "category": [],
+        "alias": "belgian",
+        "title": "Belgisk"
+      },
+      {
+        "category": [],
+        "alias": "brazilian",
+        "title": "Brasiliansk"
+      },
+      {
+        "category": [],
+        "alias": "brasseries",
+        "title": "Brasserier"
+      },
+      {
+        "category": [],
+        "alias": "british",
+        "title": "Britisk"
+      },
+      {
+        "category": [],
+        "alias": "buffets",
+        "title": "Buffeter"
+      },
+      {
+        "category": [],
+        "alias": "burgers",
+        "title": "Burgere"
+      },
+      {
+        "category": [],
+        "alias": "burmese",
+        "title": "Burmesisk"
+      },
+      {
+        "category": [],
+        "alias": "cafes",
+        "title": "Caféer"
+      },
+      {
+        "category": [],
+        "alias": "cajun",
+        "title": "Cajun og kreolsk"
+      },
+      {
+        "category": [],
+        "alias": "cambodian",
+        "title": "Cambodiansk"
+      },
+      {
+        "category": [],
+        "alias": "caribbean",
+        "title": "Caribisk"
+      },
+      {
+        "category": [],
+        "alias": "cheesesteaks",
+        "title": "Cowboytoast"
+      },
+      {
+        "category": [],
+        "alias": "creperies",
+        "title": "Creperier"
+      },
+      {
+        "category": [],
+        "alias": "cuban",
+        "title": "Cubansk"
+      },
+      {
+        "category": [],
+        "alias": "danish",
+        "title": "Dansk"
+      },
+      {
+        "category": [],
+        "alias": "delis",
+        "title": "Delikatteser"
+      },
+      {
+        "category": [],
+        "alias": "ethiopian",
+        "title": "Etiopisk"
+      },
+      {
+        "category": [],
+        "alias": "hotdogs",
+        "title": "Fastfood"
+      },
+      {
+        "category": [],
+        "alias": "filipino",
+        "title": "Filippinsk"
+      },
+      {
+        "category": [],
+        "alias": "fishnchips",
+        "title": "Fish n' Chips"
+      },
+      {
+        "category": [],
+        "alias": "seafood",
+        "title": "Fisk og skaldyr"
+      },
+      {
+        "category": [],
+        "alias": "fondue",
+        "title": "Fondue"
+      },
+      {
+        "category": [],
+        "alias": "mediterranean",
+        "title": "Fra Middelhavet"
+      },
+      {
+        "category": [],
+        "alias": "french",
+        "title": "Fransk"
+      },
+      {
+        "category": [],
+        "alias": "gastropubs",
+        "title": "Gastropubber"
+      },
+      {
+        "category": [],
+        "alias": "gluten_free",
+        "title": "Glutenfri"
+      },
+      {
+        "category": [],
+        "alias": "bbq",
+        "title": "Grill"
+      },
+      {
+        "category": [],
+        "alias": "greek",
+        "title": "Græsk"
+      },
+      {
+        "category": [],
+        "alias": "halal",
+        "title": "Halal"
+      },
+      {
+        "category": [],
+        "alias": "hawaiian",
+        "title": "Hawaiiansk"
+      },
+      {
+        "category": [],
+        "alias": "indpak",
+        "title": "Indisk"
+      },
+      {
+        "category": [],
+        "alias": "indonesian",
+        "title": "Indonesisk"
+      },
+      {
+        "category": [],
+        "alias": "irish",
+        "title": "Irsk"
+      },
+      {
+        "category": [],
+        "alias": "italian",
+        "title": "Italiensk"
+      },
+      {
+        "category": [],
+        "alias": "japanese",
+        "title": "Japansk"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "dimsum",
+            "title": "Dim Sum"
+          }
+        ],
+        "alias": "chinese",
+        "title": "Kinesisk"
+      },
+      {
+        "category": [],
+        "alias": "korean",
+        "title": "Koreansk"
+      },
+      {
+        "category": [],
+        "alias": "kosher",
+        "title": "Kosher"
+      },
+      {
+        "category": [],
+        "alias": "latin",
+        "title": "Latinamerikansk"
+      },
+      {
+        "category": [],
+        "alias": "tapasmallplates",
+        "title": "Lette tapas anretninger"
+      },
+      {
+        "category": [],
+        "alias": "foodstands",
+        "title": "Madboder"
+      },
+      {
+        "category": [],
+        "alias": "malaysian",
+        "title": "Malaysisk"
+      },
+      {
+        "category": [],
+        "alias": "moroccan",
+        "title": "Marokkansk"
+      },
+      {
+        "category": [],
+        "alias": "mideastern",
+        "title": "Mellemøstlig"
+      },
+      {
+        "category": [],
+        "alias": "mexican",
+        "title": "Mexikansk"
+      },
+      {
+        "category": [],
+        "alias": "modern_european",
+        "title": "Moderne europæisk"
+      },
+      {
+        "category": [],
+        "alias": "mongolian",
+        "title": "Mongolsk"
+      },
+      {
+        "category": [],
+        "alias": "breakfast_brunch",
+        "title": "Morgenmad og brunch"
+      },
+      {
+        "category": [],
+        "alias": "scandinavian",
+        "title": "Nordisk"
+      },
+      {
+        "category": [],
+        "alias": "pakistani",
+        "title": "Pakistansk"
+      },
+      {
+        "category": [],
+        "alias": "persian",
+        "title": "Persisk/iransk"
+      },
+      {
+        "category": [],
+        "alias": "peruvian",
+        "title": "Peruviansk"
+      },
+      {
+        "category": [],
+        "alias": "pizza",
+        "title": "Pizza"
+      },
+      {
+        "category": [],
+        "alias": "polish",
+        "title": "Polsk"
+      },
+      {
+        "category": [],
+        "alias": "portuguese",
+        "title": "Portugisisk"
+      },
+      {
+        "category": [],
+        "alias": "hotdog",
+        "title": "Pølsevogne"
+      },
+      {
+        "category": [],
+        "alias": "raw_food",
+        "title": "Raw food"
+      },
+      {
+        "category": [],
+        "alias": "russian",
+        "title": "Russisk"
+      },
+      {
+        "category": [],
+        "alias": "salad",
+        "title": "Salat"
+      },
+      {
+        "category": [],
+        "alias": "sandwiches",
+        "title": "Sandwiches"
+      },
+      {
+        "category": [],
+        "alias": "singaporean",
+        "title": "Singaporisk"
+      },
+      {
+        "category": [],
+        "alias": "opensandwiches",
+        "title": "Smørrebrød"
+      },
+      {
+        "category": [],
+        "alias": "soulfood",
+        "title": "Soulfood"
+      },
+      {
+        "category": [],
+        "alias": "spanish",
+        "title": "Spansk"
+      },
+      {
+        "category": [],
+        "alias": "steak",
+        "title": "Steakhouses"
+      },
+      {
+        "category": [],
+        "alias": "soup",
+        "title": "Suppe"
+      },
+      {
+        "category": [],
+        "alias": "sushi",
+        "title": "Sushibarer"
+      },
+      {
+        "category": [],
+        "alias": "taiwanese",
+        "title": "Taiwanesisk"
+      },
+      {
+        "category": [],
+        "alias": "tapas",
+        "title": "Tapasbarer"
+      },
+      {
+        "category": [],
+        "alias": "tex-mex",
+        "title": "Tex-Mex"
+      },
+      {
+        "category": [],
+        "alias": "thai",
+        "title": "Thailandsk"
+      },
+      {
+        "category": [],
+        "alias": "turkish",
+        "title": "Tyrkisk"
+      },
+      {
+        "category": [],
+        "alias": "german",
+        "title": "Tysk"
+      },
+      {
+        "category": [],
+        "alias": "ukrainian",
+        "title": "Ukrainsk"
+      },
+      {
+        "category": [],
+        "alias": "hungarian",
+        "title": "Ungarsk"
+      },
+      {
+        "category": [],
+        "alias": "vegan",
+        "title": "Vegansk"
+      },
+      {
+        "category": [],
+        "alias": "vegetarian",
+        "title": "Vegetarisk"
+      },
+      {
+        "category": [],
+        "alias": "vietnamese",
+        "title": "Vietnamesisk"
+      },
+      {
+        "category": [],
+        "alias": "wraps",
+        "title": "Wraps"
+      }
+    ],
+    "alias": "restaurants",
+    "title": "Restauranter"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "antiques",
+        "title": "Antikviteter"
+      },
+      {
+        "category": [],
+        "alias": "drugstores",
+        "title": "Apoteker"
+      },
+      {
+        "category": [],
+        "alias": "baby_gear",
+        "title": "Babyudstyr- og møbler"
+      },
+      {
+        "category": [],
+        "alias": "luggage",
+        "title": "Bagage"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "florists",
+            "title": "Blomsterhandlere"
+          },
+          {
+            "category": [],
+            "alias": "stationery",
+            "title": "Kort og papirvarer"
+          }
+        ],
+        "alias": "flowers",
+        "title": "Blomster og gaver"
+      },
+      {
+        "category": [],
+        "alias": "bridal",
+        "title": "Bryllup"
+      },
+      {
+        "category": [],
+        "alias": "shoppingcenters",
+        "title": "Butikscentre"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "mags",
+            "title": "Aviser og blade"
+          },
+          {
+            "category": [],
+            "alias": "bookstores",
+            "title": "Boghandler"
+          },
+          {
+            "category": [],
+            "alias": "videoandgames",
+            "title": "Film- og videospiludlejning"
+          },
+          {
+            "category": [],
+            "alias": "musicvideo",
+            "title": "Musik og dvd'er"
+          },
+          {
+            "category": [],
+            "alias": "comicbooks",
+            "title": "Tegneserier"
+          },
+          {
+            "category": [],
+            "alias": "vinyl_records",
+            "title": "Vinyl"
+          }
+        ],
+        "alias": "media",
+        "title": "Bøger, blade, musik og video"
+      },
+      {
+        "category": [],
+        "alias": "computers",
+        "title": "Computere"
+      },
+      {
+        "category": [],
+        "alias": "discountstore",
+        "title": "Discountsupermarked"
+      },
+      {
+        "category": [],
+        "alias": "electronics",
+        "title": "Elektronik"
+      },
+      {
+        "category": [],
+        "alias": "wholesale_stores",
+        "title": "Engrosbutikker"
+      },
+      {
+        "category": [],
+        "alias": "photographystores",
+        "title": "Fotobutikker"
+      },
+      {
+        "category": [],
+        "alias": "thrift_stores",
+        "title": "Genbrugsforretninger"
+      },
+      {
+        "category": [],
+        "alias": "hobbyshops",
+        "title": "Hobbybutikker"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "appliances",
+            "title": "Hvidevarer"
+          },
+          {
+            "category": [],
+            "alias": "homedecor",
+            "title": "Indretning af hjemmet"
+          },
+          {
+            "category": [],
+            "alias": "hardware",
+            "title": "Isenkræmmere"
+          },
+          {
+            "category": [],
+            "alias": "kitchenandbath",
+            "title": "Køkken og bad"
+          },
+          {
+            "category": [],
+            "alias": "mattresses",
+            "title": "Madrasser"
+          },
+          {
+            "category": [],
+            "alias": "furniture",
+            "title": "Møbelbutikker"
+          },
+          {
+            "category": [],
+            "alias": "gardening",
+            "title": "Planteskoler og havearbejde"
+          },
+          {
+            "category": [],
+            "alias": "hottubandpool",
+            "title": "Spabad og swimmingpool"
+          }
+        ],
+        "alias": "homeandgarden",
+        "title": "Hus og have"
+      },
+      {
+        "category": [],
+        "alias": "officeequipment",
+        "title": "Kontorudstyr"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "framing",
+            "title": "Indramning"
+          },
+          {
+            "category": [],
+            "alias": "stationery",
+            "title": "Kort og papirvarer"
+          },
+          {
+            "category": [],
+            "alias": "costumes",
+            "title": "Kostumer"
+          },
+          {
+            "category": [],
+            "alias": "artsupplies",
+            "title": "Kunstmaterialer"
+          },
+          {
+            "category": [],
+            "alias": "fabricstores",
+            "title": "Stofbutikker"
+          }
+        ],
+        "alias": "artsandcrafts",
+        "title": "Kunst og håndværk"
+      },
+      {
+        "category": [],
+        "alias": "galleries",
+        "title": "Kunstgallerier"
+      },
+      {
+        "category": [],
+        "alias": "toys",
+        "title": "Legetøjsbutikker"
+      },
+      {
+        "category": [],
+        "alias": "mobilephones",
+        "title": "Mobiltelefoner"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "swimwear",
+            "title": "Badetøj"
+          },
+          {
+            "category": [],
+            "alias": "vintage",
+            "title": "Brugt, vintage og varepartier"
+          },
+          {
+            "category": [],
+            "alias": "childcloth",
+            "title": "Børnetøj"
+          },
+          {
+            "category": [],
+            "alias": "womenscloth",
+            "title": "Dametøj"
+          },
+          {
+            "category": [],
+            "alias": "menscloth",
+            "title": "Herretøj"
+          },
+          {
+            "category": [],
+            "alias": "leather",
+            "title": "Lædervarer"
+          },
+          {
+            "category": [],
+            "alias": "shoes",
+            "title": "Skobutikker"
+          },
+          {
+            "category": [],
+            "alias": "sportswear",
+            "title": "Sportstøj"
+          },
+          {
+            "category": [],
+            "alias": "deptstores",
+            "title": "Storcenter"
+          },
+          {
+            "category": [],
+            "alias": "accessories",
+            "title": "Tilbehør"
+          },
+          {
+            "category": [],
+            "alias": "lingerie",
+            "title": "Undertøj"
+          },
+          {
+            "category": [],
+            "alias": "maternity",
+            "title": "Ventetøj"
+          }
+        ],
+        "alias": "fashion",
+        "title": "Mode"
+      },
+      {
+        "category": [],
+        "alias": "musicalinstrumentsandteachers",
+        "title": "Musikinstrumenter "
+      },
+      {
+        "category": [],
+        "alias": "opticians",
+        "title": "Optiker"
+      },
+      {
+        "category": [],
+        "alias": "outlet_stores",
+        "title": "Outlets"
+      },
+      {
+        "category": [],
+        "alias": "pawn",
+        "title": "Pantsætningsbutikker"
+      },
+      {
+        "category": [],
+        "alias": "personal_shopping",
+        "title": "Personlig shopping"
+      },
+      {
+        "category": [],
+        "alias": "cosmetics",
+        "title": "Skønhedsprodukter"
+      },
+      {
+        "category": [],
+        "alias": "jewelry",
+        "title": "Smykker"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "bikes",
+            "title": "Cykler"
+          },
+          {
+            "category": [],
+            "alias": "sportswear",
+            "title": "Sportstøj"
+          },
+          {
+            "category": [],
+            "alias": "outdoorgear",
+            "title": "Udstyr til udendørs"
+          }
+        ],
+        "alias": "sportgoods",
+        "title": "Sportsartikler"
+      },
+      {
+        "category": [],
+        "alias": "deptstores",
+        "title": "Storcenter"
+      },
+      {
+        "category": [],
+        "alias": "knittingsupplies",
+        "title": "Strikkematerialer"
+      },
+      {
+        "category": [],
+        "alias": "tobaccoshops",
+        "title": "Tobaksbutikker"
+      },
+      {
+        "category": [],
+        "alias": "watches",
+        "title": "Ure"
+      },
+      {
+        "category": [],
+        "alias": "adult",
+        "title": "Voksen"
+      }
+    ],
+    "alias": "shopping",
+    "title": "Shopping"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "barbers",
+        "title": "Barberer"
+      },
+      {
+        "category": [],
+        "alias": "hair",
+        "title": "Frisører"
+      },
+      {
+        "category": [],
+        "alias": "skincare",
+        "title": "Hudpleje"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "laser_hair_removal",
+            "title": "Hårfjerning med laser"
+          }
+        ],
+        "alias": "hairremoval",
+        "title": "Hårfjerning"
+      },
+      {
+        "category": [],
+        "alias": "makeupartists",
+        "title": "Makeup-artister"
+      },
+      {
+        "category": [],
+        "alias": "massage",
+        "title": "Massage"
+      },
+      {
+        "category": [],
+        "alias": "medicalspa",
+        "title": "Medicinske kurbade"
+      },
+      {
+        "category": [],
+        "alias": "othersalons",
+        "title": "Neglesaloner"
+      },
+      {
+        "category": [],
+        "alias": "piercing",
+        "title": "Piercing"
+      },
+      {
+        "category": [],
+        "alias": "cosmetics",
+        "title": "Skønhedsprodukter"
+      },
+      {
+        "category": [],
+        "alias": "tanning",
+        "title": "Solarier"
+      },
+      {
+        "category": [],
+        "alias": "spas",
+        "title": "Spa & Kurbade"
+      },
+      {
+        "category": [],
+        "alias": "tattoo",
+        "title": "Tatoveringer"
+      },
+      {
+        "category": [],
+        "alias": "eyelashservice",
+        "title": "Øjenvippeservice"
+      }
+    ],
+    "alias": "beautysvc",
+    "title": "Skønhed og spa"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "aquariums",
+        "title": "Akvarier"
+      },
+      {
+        "category": [],
+        "alias": "amateursportsteams",
+        "title": "Amatørsportshold"
+      },
+      {
+        "category": [],
+        "alias": "bowling",
+        "title": "Bowling"
+      },
+      {
+        "category": [],
+        "alias": "archery",
+        "title": "Bueskydning"
+      },
+      {
+        "category": [],
+        "alias": "bicyclepaths",
+        "title": "Cykelruter"
+      },
+      {
+        "category": [],
+        "alias": "bikerentals",
+        "title": "Cykeludlejning"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "freediving",
+            "title": "Fridykning"
+          },
+          {
+            "category": [],
+            "alias": "scuba",
+            "title": "Scuba-dykning"
+          }
+        ],
+        "alias": "diving",
+        "title": "Dykning"
+      },
+      {
+        "category": [],
+        "alias": "skydiving",
+        "title": "Faldskærmsudspring"
+      },
+      {
+        "category": [],
+        "alias": "summer_camps",
+        "title": "Ferielejr"
+      },
+      {
+        "category": [],
+        "alias": "fishing",
+        "title": "Fiskeri"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "dancestudio",
+            "title": "Dansestudier"
+          },
+          {
+            "category": [],
+            "alias": "gyms",
+            "title": "Fitnesscentre"
+          },
+          {
+            "category": [],
+            "alias": "martialarts",
+            "title": "Kampsport"
+          },
+          {
+            "category": [],
+            "alias": "pilates",
+            "title": "Pilates"
+          },
+          {
+            "category": [],
+            "alias": "swimminglessons",
+            "title": "Svømmetimer / -skoler"
+          },
+          {
+            "category": [],
+            "alias": "taichi",
+            "title": "Tai Chi"
+          },
+          {
+            "category": [],
+            "alias": "healthtrainers",
+            "title": "Trænere"
+          },
+          {
+            "category": [],
+            "alias": "yoga",
+            "title": "Yoga"
+          }
+        ],
+        "alias": "fitness",
+        "title": "Fitness og undervisning"
+      },
+      {
+        "category": [],
+        "alias": "football",
+        "title": "Fodbold"
+      },
+      {
+        "category": [],
+        "alias": "amusementparks",
+        "title": "Forlystelsesparker"
+      },
+      {
+        "category": [],
+        "alias": "recreation",
+        "title": "Fritidscentre / SFO"
+      },
+      {
+        "category": [],
+        "alias": "gokarts",
+        "title": "Gokarts"
+      },
+      {
+        "category": [],
+        "alias": "golf",
+        "title": "Golf"
+      },
+      {
+        "category": [],
+        "alias": "climbing",
+        "title": "Klatring"
+      },
+      {
+        "category": [],
+        "alias": "playgrounds",
+        "title": "Legepladser"
+      },
+      {
+        "category": [],
+        "alias": "mini_golf",
+        "title": "Minigolf"
+      },
+      {
+        "category": [],
+        "alias": "mountainbiking",
+        "title": "Mountainbiking"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "dog_parks",
+            "title": "Hundeparker"
+          },
+          {
+            "category": [],
+            "alias": "skate_parks",
+            "title": "Skateboardparker"
+          }
+        ],
+        "alias": "parks",
+        "title": "Parker"
+      },
+      {
+        "category": [],
+        "alias": "rafting",
+        "title": "Rafting / kajaksejlads"
+      },
+      {
+        "category": [],
+        "alias": "horsebackriding",
+        "title": "Ridning"
+      },
+      {
+        "category": [],
+        "alias": "boating",
+        "title": "Sejlads"
+      },
+      {
+        "category": [],
+        "alias": "gun_ranges",
+        "title": "Skydebaner"
+      },
+      {
+        "category": [],
+        "alias": "skatingrinks",
+        "title": "Skøjtebaner"
+      },
+      {
+        "category": [],
+        "alias": "sports_clubs",
+        "title": "Sportsklubber"
+      },
+      {
+        "category": [],
+        "alias": "beaches",
+        "title": "Strande"
+      },
+      {
+        "category": [],
+        "alias": "swimmingpools",
+        "title": "Svømmehaller"
+      },
+      {
+        "category": [],
+        "alias": "lakes",
+        "title": "Søer"
+      },
+      {
+        "category": [],
+        "alias": "tennis",
+        "title": "Tennis"
+      },
+      {
+        "category": [],
+        "alias": "hiking",
+        "title": "Vandring"
+      },
+      {
+        "category": [],
+        "alias": "zoos",
+        "title": "Zoologiske haver"
+      }
+    ],
+    "alias": "active",
+    "title": "Sport og fritid"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "acupuncture",
+        "title": "Akupunktur"
+      },
+      {
+        "category": [],
+        "alias": "cannabis_clinics",
+        "title": "Cannabisklinikker"
+      },
+      {
+        "category": [],
+        "alias": "weightlosscenters",
+        "title": "Centre for vægttab"
+      },
+      {
+        "category": [],
+        "alias": "nutritionists",
+        "title": "Diætister"
+      },
+      {
+        "category": [],
+        "alias": "physicaltherapy",
+        "title": "Fysioterapi"
+      },
+      {
+        "category": [],
+        "alias": "urgent_care",
+        "title": "Førstehjælp"
+      },
+      {
+        "category": [],
+        "alias": "hospice",
+        "title": "Hospice"
+      },
+      {
+        "category": [],
+        "alias": "hospitals",
+        "title": "Hospitaler"
+      },
+      {
+        "category": [],
+        "alias": "midwives",
+        "title": "Jordemødre"
+      },
+      {
+        "category": [],
+        "alias": "chiropractors",
+        "title": "Kiropraktorer"
+      },
+      {
+        "category": [],
+        "alias": "medcenters",
+        "title": "Klinikker"
+      },
+      {
+        "category": [],
+        "alias": "laserlasikeyes",
+        "title": "LASIK"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "allergist",
+            "title": "Allergispecialist"
+          },
+          {
+            "category": [],
+            "alias": "audiologist",
+            "title": "Audiolog"
+          },
+          {
+            "category": [],
+            "alias": "pediatricians",
+            "title": "Børnelæger"
+          },
+          {
+            "category": [],
+            "alias": "dermatology",
+            "title": "Dermatologer"
+          },
+          {
+            "category": [],
+            "alias": "fertility",
+            "title": "Fertilitet"
+          },
+          {
+            "category": [],
+            "alias": "tattooremoval",
+            "title": "Fjernelse af tatovering"
+          },
+          {
+            "category": [],
+            "alias": "podiatrists",
+            "title": "Fodlæger"
+          },
+          {
+            "category": [],
+            "alias": "gastroenterologist",
+            "title": "Gastroenterolog"
+          },
+          {
+            "category": [],
+            "alias": "gerontologist",
+            "title": "Gerontologer"
+          },
+          {
+            "category": [],
+            "alias": "internalmed",
+            "title": "Intern medicin"
+          },
+          {
+            "category": [],
+            "alias": "cardiology",
+            "title": "Kardiologer"
+          },
+          {
+            "category": [],
+            "alias": "pulmonologist",
+            "title": "Lungelæge"
+          },
+          {
+            "category": [],
+            "alias": "naturopathic",
+            "title": "Naturmedicin/holisme"
+          },
+          {
+            "category": [],
+            "alias": "neurologist",
+            "title": "Neurolog"
+          },
+          {
+            "category": [],
+            "alias": "obgyn",
+            "title": "Obstetrikere og gynækologer"
+          },
+          {
+            "category": [],
+            "alias": "opthamalogists",
+            "title": "Oftalmolog"
+          },
+          {
+            "category": [],
+            "alias": "oncologist",
+            "title": "Onkolog"
+          },
+          {
+            "category": [],
+            "alias": "orthopedists",
+            "title": "Ortopæder"
+          },
+          {
+            "category": [],
+            "alias": "osteopathicphysicians",
+            "title": "Ortopædlæge"
+          },
+          {
+            "category": [],
+            "alias": "cosmeticsurgeons",
+            "title": "Plastikkirurg"
+          },
+          {
+            "category": [],
+            "alias": "familydr",
+            "title": "Praktiserende læger"
+          },
+          {
+            "category": [],
+            "alias": "proctologist",
+            "title": "Proktologer"
+          },
+          {
+            "category": [],
+            "alias": "psychiatrists",
+            "title": "Psykiatere"
+          },
+          {
+            "category": [],
+            "alias": "sportsmed",
+            "title": "Sportsmedicin"
+          },
+          {
+            "category": [],
+            "alias": "earnosethroat",
+            "title": "Øre, næse, hals"
+          }
+        ],
+        "alias": "physicians",
+        "title": "Læger"
+      },
+      {
+        "category": [],
+        "alias": "medicalspa",
+        "title": "Medicinske kurbade"
+      },
+      {
+        "category": [],
+        "alias": "optometrists",
+        "title": "Optikere"
+      },
+      {
+        "category": [],
+        "alias": "retirement_homes",
+        "title": "Plejehjem"
+      },
+      {
+        "category": [],
+        "alias": "c_and_mh",
+        "title": "Rådgivning og mental sundhed"
+      },
+      {
+        "category": [],
+        "alias": "homehealthcare",
+        "title": "Sundhedspleje i hjemmet"
+      },
+      {
+        "category": [],
+        "alias": "speech_therapists",
+        "title": "Taleterapeuter"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "generaldentistry",
+            "title": "Almindelige tandlæger"
+          },
+          {
+            "category": [],
+            "alias": "pediatric_dentists",
+            "title": "Børnetandlæger"
+          },
+          {
+            "category": [],
+            "alias": "endodontists",
+            "title": "Endodontister"
+          },
+          {
+            "category": [],
+            "alias": "cosmeticdentists",
+            "title": "Kosmetiske tandlæger"
+          },
+          {
+            "category": [],
+            "alias": "oralsurgeons",
+            "title": "Mundkirurger"
+          },
+          {
+            "category": [],
+            "alias": "orthodontists",
+            "title": "Ortodontiske tandlæger"
+          },
+          {
+            "category": [],
+            "alias": "periodontists",
+            "title": "Parodontisk tandlæge"
+          }
+        ],
+        "alias": "dentists",
+        "title": "Tandlæger"
+      },
+      {
+        "category": [],
+        "alias": "tcm",
+        "title": "Traditionel kinesisk medicin"
+      }
+    ],
+    "alias": "health",
+    "title": "Sundhed og helse"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "testprep",
+        "title": "Eksamensforberedelse"
+      },
+      {
+        "category": [],
+        "alias": "elementaryschools",
+        "title": "Folkeskoler"
+      },
+      {
+        "category": [],
+        "alias": "highschools",
+        "title": "Gymnasiale uddannelser"
+      },
+      {
+        "category": [],
+        "alias": "privatetutors",
+        "title": "Privatundervisning"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "dance_schools",
+            "title": "Danseskoler"
+          },
+          {
+            "category": [],
+            "alias": "flightinstruction",
+            "title": "Flyvetimer"
+          },
+          {
+            "category": [],
+            "alias": "cosmetology_schools",
+            "title": "Kosmetologskoler"
+          },
+          {
+            "category": [],
+            "alias": "artschools",
+            "title": "Kunstskoler"
+          },
+          {
+            "category": [],
+            "alias": "driving_schools",
+            "title": "Køreskoler"
+          },
+          {
+            "category": [],
+            "alias": "cookingschools",
+            "title": "Madlavningsskoler"
+          },
+          {
+            "category": [],
+            "alias": "massage_schools",
+            "title": "Massageskoler"
+          },
+          {
+            "category": [],
+            "alias": "language_schools",
+            "title": "Sprogskoler"
+          },
+          {
+            "category": [],
+            "alias": "swimminglessons",
+            "title": "Svømmetimer / -skoler"
+          },
+          {
+            "category": [],
+            "alias": "vocation",
+            "title": "Tekniske skoler"
+          }
+        ],
+        "alias": "specialtyschools",
+        "title": "Specialskoler"
+      },
+      {
+        "category": [],
+        "alias": "specialed",
+        "title": "Specialuddannelse"
+      },
+      {
+        "category": [],
+        "alias": "educationservices",
+        "title": "Uddannelsesservice"
+      },
+      {
+        "category": [],
+        "alias": "collegeuniv",
+        "title": "Universiteter"
+      },
+      {
+        "category": [],
+        "alias": "tutoring",
+        "title": "Vejledningscentre"
+      },
+      {
+        "category": [],
+        "alias": "adultedu",
+        "title": "Voksenundervisning"
+      }
+    ],
+    "alias": "education",
+    "title": "Uddannelse"
+  }
+]

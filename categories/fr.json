@@ -1,0 +1,2818 @@
+[
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "petstore",
+        "title": "Magasins d’animaux de compagnie"
+      },
+      {
+        "category": [],
+        "alias": "animalshelters",
+        "title": "Refuges pour animaux "
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "pet_training",
+            "title": "Dressage d’animaux"
+          },
+          {
+            "category": [],
+            "alias": "pet_sitting",
+            "title": "Garde d’animaux"
+          },
+          {
+            "category": [],
+            "alias": "dogwalkers",
+            "title": "Promeneurs pour chiens"
+          },
+          {
+            "category": [],
+            "alias": "groomer",
+            "title": "Toiletteur pour animaux de compagnie"
+          }
+        ],
+        "alias": "petservices",
+        "title": "Services pour animaux de compagnie"
+      },
+      {
+        "category": [],
+        "alias": "vet",
+        "title": "Vétérinaires"
+      }
+    ],
+    "alias": "pets",
+    "title": "Animaux de compagnie"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "casinos",
+        "title": "Casinos"
+      },
+      {
+        "category": [],
+        "alias": "wineries",
+        "title": "Caves à vins"
+      },
+      {
+        "category": [],
+        "alias": "castles",
+        "title": "Châteaux"
+      },
+      {
+        "category": [],
+        "alias": "movietheaters",
+        "title": "Cinéma"
+      },
+      {
+        "category": [],
+        "alias": "social_clubs",
+        "title": "Clubs sociaux"
+      },
+      {
+        "category": [],
+        "alias": "festivals",
+        "title": "Festivals"
+      },
+      {
+        "category": [],
+        "alias": "galleries",
+        "title": "Galeries d’art"
+      },
+      {
+        "category": [],
+        "alias": "gardens",
+        "title": "Jardins botaniques"
+      },
+      {
+        "category": [],
+        "alias": "jazzandblues",
+        "title": "Jazz et blues"
+      },
+      {
+        "category": [],
+        "alias": "museums",
+        "title": "Musées"
+      },
+      {
+        "category": [],
+        "alias": "opera",
+        "title": "Opéra et Ballet"
+      },
+      {
+        "category": [],
+        "alias": "musicvenues",
+        "title": "Salles de concert"
+      },
+      {
+        "category": [],
+        "alias": "arcades",
+        "title": "Salles de jeux d'arcade"
+      },
+      {
+        "category": [],
+        "alias": "theater",
+        "title": "Spectacles"
+      },
+      {
+        "category": [],
+        "alias": "stadiumsarenas",
+        "title": "Stades et terrains de sport"
+      },
+      {
+        "category": [],
+        "alias": "psychic_astrology",
+        "title": "Voyants et astrologues"
+      },
+      {
+        "category": [],
+        "alias": "sportsteams",
+        "title": "Équipes de sport professionnelles"
+      }
+    ],
+    "alias": "arts",
+    "title": "Arts et loisirs"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "bodyshops",
+        "title": "Atelier de carrosserie"
+      },
+      {
+        "category": [],
+        "alias": "car_dealers",
+        "title": "Concessionnaires automobiles"
+      },
+      {
+        "category": [],
+        "alias": "motorcycledealers",
+        "title": "Concessionnaires moto"
+      },
+      {
+        "category": [],
+        "alias": "servicestations",
+        "title": "Essence & Station services"
+      },
+      {
+        "category": [],
+        "alias": "windshieldinstallrepair",
+        "title": "Installation et réparation de pare-brises"
+      },
+      {
+        "category": [],
+        "alias": "stereo_installation",
+        "title": "Installation stéréo voiture"
+      },
+      {
+        "category": [],
+        "alias": "carwash",
+        "title": "Nettoyage de voiture"
+      },
+      {
+        "category": [],
+        "alias": "parking",
+        "title": "Parking"
+      },
+      {
+        "category": [],
+        "alias": "auto_detailing",
+        "title": "Pièces auto"
+      },
+      {
+        "category": [],
+        "alias": "autopartssupplies",
+        "title": "Pièces auto"
+      },
+      {
+        "category": [],
+        "alias": "tires",
+        "title": "Pneumatiques"
+      },
+      {
+        "category": [],
+        "alias": "towing",
+        "title": "Remorquage"
+      },
+      {
+        "category": [],
+        "alias": "autorepair",
+        "title": "Réparation automobile"
+      },
+      {
+        "category": [],
+        "alias": "motorcyclerepair",
+        "title": "Réparation moto"
+      },
+      {
+        "category": [],
+        "alias": "autoglass",
+        "title": "Services verrerie automobile"
+      },
+      {
+        "category": [],
+        "alias": "smog_check_stations",
+        "title": "Stations de mesure de la pollution"
+      },
+      {
+        "category": [],
+        "alias": "oilchange",
+        "title": "Vidange huile moteur"
+      }
+    ],
+    "alias": "auto",
+    "title": "Automobile"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "vacationrentalagents",
+        "title": "Agents de location de vacances"
+      },
+      {
+        "category": [],
+        "alias": "hostels",
+        "title": "Auberges de jeunesse"
+      },
+      {
+        "category": [],
+        "alias": "airports",
+        "title": "Aéroports"
+      },
+      {
+        "category": [],
+        "alias": "bedbreakfast",
+        "title": "Bed & Breakfast"
+      },
+      {
+        "category": [],
+        "alias": "campgrounds",
+        "title": "Campings"
+      },
+      {
+        "category": [],
+        "alias": "guesthouses",
+        "title": "Chambres et Maisons d'Hôtes"
+      },
+      {
+        "category": [],
+        "alias": "tours",
+        "title": "Excursions"
+      },
+      {
+        "category": [],
+        "alias": "hotels",
+        "title": "Hôtels"
+      },
+      {
+        "category": [],
+        "alias": "rvrental",
+        "title": "Location de camping-cars"
+      },
+      {
+        "category": [],
+        "alias": "carrental",
+        "title": "Location de voiture"
+      },
+      {
+        "category": [],
+        "alias": "travelservices",
+        "title": "Services touristiques"
+      },
+      {
+        "category": [],
+        "alias": "skiresorts",
+        "title": "Stations de ski"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "airlines",
+            "title": "Compagnies aériennes"
+          },
+          {
+            "category": [],
+            "alias": "limos",
+            "title": "Limousines"
+          },
+          {
+            "category": [],
+            "alias": "airport_shuttles",
+            "title": "Navettes aéroport"
+          },
+          {
+            "category": [],
+            "alias": "taxis",
+            "title": "Taxis"
+          },
+          {
+            "category": [],
+            "alias": "publictransport",
+            "title": "Transports en commun"
+          }
+        ],
+        "alias": "transport",
+        "title": "Transports"
+      }
+    ],
+    "alias": "hotelstravel",
+    "title": "Hôtels et séjours"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "realestateagents",
+        "title": "Agents immobiliers"
+      },
+      {
+        "category": [],
+        "alias": "apartments",
+        "title": "Appartements meublés "
+      },
+      {
+        "category": [],
+        "alias": "mortgagebrokers",
+        "title": "Courtiers en prêts hypothécaires"
+      },
+      {
+        "category": [],
+        "alias": "homestaging",
+        "title": "Décoration d'Intérieur"
+      },
+      {
+        "category": [],
+        "alias": "propertymgmt",
+        "title": "Gestion de patrimoine"
+      },
+      {
+        "category": [],
+        "alias": "university_housing",
+        "title": "Logements universitaires"
+      },
+      {
+        "category": [],
+        "alias": "realestatesvcs",
+        "title": "Services immobiliers"
+      }
+    ],
+    "alias": "realestate",
+    "title": "Immobilier"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "televisionstations",
+        "title": "Chaînes de télévision"
+      },
+      {
+        "category": [],
+        "alias": "printmedia",
+        "title": "Journaux"
+      },
+      {
+        "category": [],
+        "alias": "radiostations",
+        "title": "Stations de radio"
+      }
+    ],
+    "alias": "massmedia",
+    "title": "Médias de masse"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "bagels",
+        "title": "Bagels"
+      },
+      {
+        "category": [],
+        "alias": "juicebars",
+        "title": "Bar à jus de fruits et smoothies"
+      },
+      {
+        "category": [],
+        "alias": "donuts",
+        "title": "Beignets & Donuts"
+      },
+      {
+        "category": [],
+        "alias": "beer_and_wine",
+        "title": "Bière, vins et liqueurs"
+      },
+      {
+        "category": [],
+        "alias": "butcher",
+        "title": "Bouchers"
+      },
+      {
+        "category": [],
+        "alias": "bakeries",
+        "title": "Boulangeries et Pâtisseries"
+      },
+      {
+        "category": [],
+        "alias": "breweries",
+        "title": "Brasseurs"
+      },
+      {
+        "category": [],
+        "alias": "coffee",
+        "title": "Café et thé"
+      },
+      {
+        "category": [],
+        "alias": "internetcafe",
+        "title": "Cafés internet"
+      },
+      {
+        "category": [],
+        "alias": "wineries",
+        "title": "Caves à vins"
+      },
+      {
+        "category": [],
+        "alias": "diyfood",
+        "title": "Cuisine à faire soi-même"
+      },
+      {
+        "category": [],
+        "alias": "desserts",
+        "title": "Desserts"
+      },
+      {
+        "category": [],
+        "alias": "icecream",
+        "title": "Glaces et yaourt glacés"
+      },
+      {
+        "category": [],
+        "alias": "fooddeliveryservices",
+        "title": "Livraison à domicile"
+      },
+      {
+        "category": [],
+        "alias": "farmersmarket",
+        "title": "Marchés"
+      },
+      {
+        "category": [],
+        "alias": "tea",
+        "title": "Salons de thé"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "meats",
+            "title": "Boucheries charcuteries"
+          },
+          {
+            "category": [],
+            "alias": "chocolate",
+            "title": "Chocolateries"
+          },
+          {
+            "category": [],
+            "alias": "candy",
+            "title": "Confiseries"
+          },
+          {
+            "category": [],
+            "alias": "cheese",
+            "title": "Fromageries"
+          },
+          {
+            "category": [],
+            "alias": "markets",
+            "title": "Fruits et légumes"
+          },
+          {
+            "category": [],
+            "alias": "herbsandspices",
+            "title": "Herbes et épices"
+          },
+          {
+            "category": [],
+            "alias": "ethnicmarkets",
+            "title": "Marché de produits du monde"
+          },
+          {
+            "category": [],
+            "alias": "seafoodmarkets",
+            "title": "Marchés de fruits de mer"
+          },
+          {
+            "category": [],
+            "alias": "healthmarkets",
+            "title": "Produits bio et naturels"
+          }
+        ],
+        "alias": "gourmet",
+        "title": "Spécialités culinaires"
+      },
+      {
+        "category": [],
+        "alias": "grocery",
+        "title": "Supermarchés"
+      },
+      {
+        "category": [],
+        "alias": "streetvendors",
+        "title": "Vendeurs de rue"
+      },
+      {
+        "category": [],
+        "alias": "convenience",
+        "title": "Épiceries"
+      }
+    ],
+    "alias": "food",
+    "title": "Nourriture"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "mosques",
+        "title": "Mosquées"
+      },
+      {
+        "category": [],
+        "alias": "synagogues",
+        "title": "Synagogues"
+      },
+      {
+        "category": [],
+        "alias": "hindu_temples",
+        "title": "Temples Hindous"
+      },
+      {
+        "category": [],
+        "alias": "buddhist_temples",
+        "title": "Temples bouddhistes"
+      },
+      {
+        "category": [],
+        "alias": "churches",
+        "title": "Églises"
+      }
+    ],
+    "alias": "religiousorgs",
+    "title": "Organisations religieuses"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "tutoring",
+        "title": "Centres de formation"
+      },
+      {
+        "category": [],
+        "alias": "highschools",
+        "title": "Collèges et Lycées"
+      },
+      {
+        "category": [],
+        "alias": "adultedu",
+        "title": "Cours pour adulte"
+      },
+      {
+        "category": [],
+        "alias": "specialed",
+        "title": "Education spécialisée"
+      },
+      {
+        "category": [],
+        "alias": "collegeuniv",
+        "title": "Grandes écoles et universités"
+      },
+      {
+        "category": [],
+        "alias": "testprep",
+        "title": "Préparation aux examens"
+      },
+      {
+        "category": [],
+        "alias": "educationservices",
+        "title": "Services éducatifs"
+      },
+      {
+        "category": [],
+        "alias": "privatetutors",
+        "title": "Tuteurs privés"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "driving_schools",
+            "title": "Auto-écoles"
+          },
+          {
+            "category": [],
+            "alias": "flightinstruction",
+            "title": "Aéroclubs et cours de pilotage"
+          },
+          {
+            "category": [],
+            "alias": "vocation",
+            "title": "École de formation professionnelle et technique"
+          },
+          {
+            "category": [],
+            "alias": "cosmetology_schools",
+            "title": "Écoles d'esthéticienne"
+          },
+          {
+            "category": [],
+            "alias": "cookingschools",
+            "title": "Écoles de cuisine"
+          },
+          {
+            "category": [],
+            "alias": "dance_schools",
+            "title": "Écoles de danse"
+          },
+          {
+            "category": [],
+            "alias": "language_schools",
+            "title": "Écoles de langues"
+          },
+          {
+            "category": [],
+            "alias": "massage_schools",
+            "title": "Écoles de massage"
+          },
+          {
+            "category": [],
+            "alias": "artschools",
+            "title": "Écoles d’art"
+          },
+          {
+            "category": [],
+            "alias": "swimminglessons",
+            "title": "Écoles/Cours de natation"
+          }
+        ],
+        "alias": "specialtyschools",
+        "title": "Écoles de spécialités"
+      },
+      {
+        "category": [],
+        "alias": "preschools",
+        "title": "Écoles maternelles"
+      },
+      {
+        "category": [],
+        "alias": "elementaryschools",
+        "title": "Écoles primaires"
+      }
+    ],
+    "alias": "education",
+    "title": "Parcours universitaire"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "afghani",
+        "title": "Afghan"
+      },
+      {
+        "category": [],
+        "alias": "african",
+        "title": "Africain"
+      },
+      {
+        "category": [],
+        "alias": "raw_food",
+        "title": "Aliments crus/vivants"
+      },
+      {
+        "category": [],
+        "alias": "german",
+        "title": "Allemand"
+      },
+      {
+        "category": [],
+        "alias": "tradamerican",
+        "title": "Américain"
+      },
+      {
+        "category": [],
+        "alias": "latin",
+        "title": "Amérique latine"
+      },
+      {
+        "category": [],
+        "alias": "argentine",
+        "title": "Argentin"
+      },
+      {
+        "category": [],
+        "alias": "asianfusion",
+        "title": "Asiatique"
+      },
+      {
+        "category": [],
+        "alias": "tapas",
+        "title": "Bars à tapas"
+      },
+      {
+        "category": [],
+        "alias": "basque",
+        "title": "Basque"
+      },
+      {
+        "category": [],
+        "alias": "belgian",
+        "title": "Belge"
+      },
+      {
+        "category": [],
+        "alias": "burmese",
+        "title": "Birman"
+      },
+      {
+        "category": [],
+        "alias": "bistros",
+        "title": "Bistrots"
+      },
+      {
+        "category": [],
+        "alias": "brasseries",
+        "title": "Brasseries"
+      },
+      {
+        "category": [],
+        "alias": "british",
+        "title": "Britannique"
+      },
+      {
+        "category": [],
+        "alias": "brazilian",
+        "title": "Brésilien"
+      },
+      {
+        "category": [],
+        "alias": "buffets",
+        "title": "Buffets"
+      },
+      {
+        "category": [],
+        "alias": "cafes",
+        "title": "Cafés"
+      },
+      {
+        "category": [],
+        "alias": "cambodian",
+        "title": "Cambodgien"
+      },
+      {
+        "category": [],
+        "alias": "caribbean",
+        "title": "Caribéen"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "dimsum",
+            "title": "Dimsum"
+          }
+        ],
+        "alias": "chinese",
+        "title": "Chinois"
+      },
+      {
+        "category": [],
+        "alias": "corsican",
+        "title": "Corse"
+      },
+      {
+        "category": [],
+        "alias": "korean",
+        "title": "Coréen"
+      },
+      {
+        "category": [],
+        "alias": "cajun",
+        "title": "Créole"
+      },
+      {
+        "category": [],
+        "alias": "creperies",
+        "title": "Crêperies"
+      },
+      {
+        "category": [],
+        "alias": "cuban",
+        "title": "Cubain"
+      },
+      {
+        "category": [],
+        "alias": "soulfood",
+        "title": "Cuisine afro-américaine"
+      },
+      {
+        "category": [],
+        "alias": "diners",
+        "title": "Diners Américains"
+      },
+      {
+        "category": [],
+        "alias": "delis",
+        "title": "Délis & Snacks"
+      },
+      {
+        "category": [],
+        "alias": "spanish",
+        "title": "Espagnol"
+      },
+      {
+        "category": [],
+        "alias": "modern_european",
+        "title": "Européen moderne"
+      },
+      {
+        "category": [],
+        "alias": "hotdogs",
+        "title": "Fast Food"
+      },
+      {
+        "category": [],
+        "alias": "fishnchips",
+        "title": "Fish & Chips"
+      },
+      {
+        "category": [],
+        "alias": "fondue",
+        "title": "Fondue"
+      },
+      {
+        "category": [],
+        "alias": "french",
+        "title": "Français"
+      },
+      {
+        "category": [],
+        "alias": "seafood",
+        "title": "Fruits de mer"
+      },
+      {
+        "category": [],
+        "alias": "greek",
+        "title": "Grec"
+      },
+      {
+        "category": [],
+        "alias": "halal",
+        "title": "Halal"
+      },
+      {
+        "category": [],
+        "alias": "burgers",
+        "title": "Hamburgers"
+      },
+      {
+        "category": [],
+        "alias": "hawaiian",
+        "title": "Hawaïen"
+      },
+      {
+        "category": [],
+        "alias": "himalayan",
+        "title": "Himalayen/Népalais"
+      },
+      {
+        "category": [],
+        "alias": "hungarian",
+        "title": "Hongrois"
+      },
+      {
+        "category": [],
+        "alias": "hotdog",
+        "title": "Hot Dogs"
+      },
+      {
+        "category": [],
+        "alias": "indpak",
+        "title": "Indien"
+      },
+      {
+        "category": [],
+        "alias": "indonesian",
+        "title": "Indonésien"
+      },
+      {
+        "category": [],
+        "alias": "irish",
+        "title": "Irlandais"
+      },
+      {
+        "category": [],
+        "alias": "italian",
+        "title": "Italien"
+      },
+      {
+        "category": [],
+        "alias": "japanese",
+        "title": "Japonais"
+      },
+      {
+        "category": [],
+        "alias": "kosher",
+        "title": "Kascher"
+      },
+      {
+        "category": [],
+        "alias": "kebab",
+        "title": "Kebab"
+      },
+      {
+        "category": [],
+        "alias": "lebanese",
+        "title": "Libanais"
+      },
+      {
+        "category": [],
+        "alias": "lyonnais",
+        "title": "Lyonnais"
+      },
+      {
+        "category": [],
+        "alias": "malaysian",
+        "title": "Malaysien"
+      },
+      {
+        "category": [],
+        "alias": "moroccan",
+        "title": "Marocain"
+      },
+      {
+        "category": [],
+        "alias": "mexican",
+        "title": "Mexicain"
+      },
+      {
+        "category": [],
+        "alias": "mongolian",
+        "title": "Mongole"
+      },
+      {
+        "category": [],
+        "alias": "mideastern",
+        "title": "Moyen-Orient"
+      },
+      {
+        "category": [],
+        "alias": "mediterranean",
+        "title": "Méditerranéen"
+      },
+      {
+        "category": [],
+        "alias": "pakistani",
+        "title": "Pakistanais"
+      },
+      {
+        "category": [],
+        "alias": "persian",
+        "title": "Perse/Iranien"
+      },
+      {
+        "category": [],
+        "alias": "breakfast_brunch",
+        "title": "Petit déjeuner et Brunch"
+      },
+      {
+        "category": [],
+        "alias": "filipino",
+        "title": "Philippin"
+      },
+      {
+        "category": [],
+        "alias": "pizza",
+        "title": "Pizza"
+      },
+      {
+        "category": [],
+        "alias": "polish",
+        "title": "Polonais"
+      },
+      {
+        "category": [],
+        "alias": "portuguese",
+        "title": "Portugais"
+      },
+      {
+        "category": [],
+        "alias": "gastropubs",
+        "title": "Pubs gastronomiques"
+      },
+      {
+        "category": [],
+        "alias": "peruvian",
+        "title": "Péruvien"
+      },
+      {
+        "category": [],
+        "alias": "steak",
+        "title": "Restaurants Grill"
+      },
+      {
+        "category": [],
+        "alias": "romanian",
+        "title": "Romain"
+      },
+      {
+        "category": [],
+        "alias": "russian",
+        "title": "Russe"
+      },
+      {
+        "category": [],
+        "alias": "salad",
+        "title": "Salade"
+      },
+      {
+        "category": [],
+        "alias": "sandwiches",
+        "title": "Sandwich"
+      },
+      {
+        "category": [],
+        "alias": "gluten_free",
+        "title": "Sans gluten"
+      },
+      {
+        "category": [],
+        "alias": "scandinavian",
+        "title": "Scandinave"
+      },
+      {
+        "category": [],
+        "alias": "serbocroatian",
+        "title": "Serbian"
+      },
+      {
+        "category": [],
+        "alias": "singaporean",
+        "title": "Singapourien"
+      },
+      {
+        "category": [],
+        "alias": "soup",
+        "title": "Soupe"
+      },
+      {
+        "category": [],
+        "alias": "foodstands",
+        "title": "Stands de nourriture"
+      },
+      {
+        "category": [],
+        "alias": "sud_ouest",
+        "title": "Sud Ouest"
+      },
+      {
+        "category": [],
+        "alias": "sushi",
+        "title": "Sushi"
+      },
+      {
+        "category": [],
+        "alias": "tapasmallplates",
+        "title": "Tapas"
+      },
+      {
+        "category": [],
+        "alias": "taiwanese",
+        "title": "Taïwanais"
+      },
+      {
+        "category": [],
+        "alias": "tex-mex",
+        "title": "Tex-mex"
+      },
+      {
+        "category": [],
+        "alias": "thai",
+        "title": "Thaï"
+      },
+      {
+        "category": [],
+        "alias": "turkish",
+        "title": "Turc"
+      },
+      {
+        "category": [],
+        "alias": "ukrainian",
+        "title": "Ukrainien"
+      },
+      {
+        "category": [],
+        "alias": "bbq",
+        "title": "Viandes et Barbecue"
+      },
+      {
+        "category": [],
+        "alias": "vietnamese",
+        "title": "Vietnamien"
+      },
+      {
+        "category": [],
+        "alias": "vegan",
+        "title": "Végétalien"
+      },
+      {
+        "category": [],
+        "alias": "vegetarian",
+        "title": "Végétarien"
+      },
+      {
+        "category": [],
+        "alias": "ethiopian",
+        "title": "Éthiopien"
+      }
+    ],
+    "alias": "restaurants",
+    "title": "Restaurants"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "barbers",
+        "title": "Barbiers"
+      },
+      {
+        "category": [],
+        "alias": "tanning",
+        "title": "Centres de bronzage"
+      },
+      {
+        "category": [],
+        "alias": "othersalons",
+        "title": "Manucure et Pedicure"
+      },
+      {
+        "category": [],
+        "alias": "makeupartists",
+        "title": "Maquilleurs (euses)"
+      },
+      {
+        "category": [],
+        "alias": "massage",
+        "title": "Massage"
+      },
+      {
+        "category": [],
+        "alias": "perfume",
+        "title": "Parfumerie"
+      },
+      {
+        "category": [],
+        "alias": "piercing",
+        "title": "Piercing"
+      },
+      {
+        "category": [],
+        "alias": "cosmetics",
+        "title": "Produits de beauté et cosmétiques"
+      },
+      {
+        "category": [],
+        "alias": "hair",
+        "title": "Salons de coiffure"
+      },
+      {
+        "category": [],
+        "alias": "skincare",
+        "title": "Soins dermatologiques"
+      },
+      {
+        "category": [],
+        "alias": "eyelashservice",
+        "title": "Soins des cils"
+      },
+      {
+        "category": [],
+        "alias": "spas",
+        "title": "Spas"
+      },
+      {
+        "category": [],
+        "alias": "medicalspa",
+        "title": "Spas médicaux"
+      },
+      {
+        "category": [],
+        "alias": "tattoo",
+        "title": "Tatouage"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "laser_hair_removal",
+            "title": "Épilation au laser"
+          }
+        ],
+        "alias": "hairremoval",
+        "title": "Épilation"
+      }
+    ],
+    "alias": "beautysvc",
+    "title": "Salons de beauté et spas"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "acupuncture",
+        "title": "Acupuncture"
+      },
+      {
+        "category": [],
+        "alias": "weightlosscenters",
+        "title": "Centre d' amincissement"
+      },
+      {
+        "category": [],
+        "alias": "chiropractors",
+        "title": "Chiropracteurs"
+      },
+      {
+        "category": [],
+        "alias": "laserlasikeyes",
+        "title": "Chirurgie laser des yeux/Lasik"
+      },
+      {
+        "category": [],
+        "alias": "medcenters",
+        "title": "Cliniques"
+      },
+      {
+        "category": [],
+        "alias": "c_and_mh",
+        "title": "Conseil et soutien psychologique"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "oralsurgeons",
+            "title": "Chirurgie bucco-dentaire"
+          },
+          {
+            "category": [],
+            "alias": "pediatric_dentists",
+            "title": "Dentiste pédiatre"
+          },
+          {
+            "category": [],
+            "alias": "generaldentistry",
+            "title": "Dentisterie générale"
+          },
+          {
+            "category": [],
+            "alias": "endodontists",
+            "title": "Endodontistes"
+          },
+          {
+            "category": [],
+            "alias": "cosmeticdentists",
+            "title": "Esthétique dentaire"
+          },
+          {
+            "category": [],
+            "alias": "orthodontists",
+            "title": "Orthodontistes"
+          },
+          {
+            "category": [],
+            "alias": "periodontists",
+            "title": "Parodontistes"
+          }
+        ],
+        "alias": "dentists",
+        "title": "Dentistes"
+      },
+      {
+        "category": [],
+        "alias": "saunas",
+        "title": "Hammam et Sauna"
+      },
+      {
+        "category": [],
+        "alias": "hospice",
+        "title": "Hospice"
+      },
+      {
+        "category": [],
+        "alias": "hospitals",
+        "title": "Hôpitaux"
+      },
+      {
+        "category": [],
+        "alias": "physicaltherapy",
+        "title": "Kinésithérapeute"
+      },
+      {
+        "category": [],
+        "alias": "retirement_homes",
+        "title": "Maisons de retraite"
+      },
+      {
+        "category": [],
+        "alias": "tcm",
+        "title": "Medicine Chinoise"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "allergist",
+            "title": "Allergologues"
+          },
+          {
+            "category": [],
+            "alias": "cardiology",
+            "title": "Cardiologues"
+          },
+          {
+            "category": [],
+            "alias": "cosmeticsurgeons",
+            "title": "Chirurgiens esthétiques"
+          },
+          {
+            "category": [],
+            "alias": "dermatology",
+            "title": "Dermatologues"
+          },
+          {
+            "category": [],
+            "alias": "tattooremoval",
+            "title": "Détatouage"
+          },
+          {
+            "category": [],
+            "alias": "fertility",
+            "title": "Fertilité"
+          },
+          {
+            "category": [],
+            "alias": "gastroenterologist",
+            "title": "Gastro-entérologue"
+          },
+          {
+            "category": [],
+            "alias": "familydr",
+            "title": "Généraliste"
+          },
+          {
+            "category": [],
+            "alias": "gerontologist",
+            "title": "Gérontologue"
+          },
+          {
+            "category": [],
+            "alias": "sportsmed",
+            "title": "Médecine du sport"
+          },
+          {
+            "category": [],
+            "alias": "internalmed",
+            "title": "Médecine interne"
+          },
+          {
+            "category": [],
+            "alias": "naturopathic",
+            "title": "Naturopathie/Holisme"
+          },
+          {
+            "category": [],
+            "alias": "neurologist",
+            "title": "Neurologue"
+          },
+          {
+            "category": [],
+            "alias": "audiologist",
+            "title": "ORL"
+          },
+          {
+            "category": [],
+            "alias": "earnosethroat",
+            "title": "ORL"
+          },
+          {
+            "category": [],
+            "alias": "obgyn",
+            "title": "Obstétriciens et gynécologues"
+          },
+          {
+            "category": [],
+            "alias": "oncologist",
+            "title": "Oncologue"
+          },
+          {
+            "category": [],
+            "alias": "opthamalogists",
+            "title": "Ophtalmologues"
+          },
+          {
+            "category": [],
+            "alias": "orthopedists",
+            "title": "Orthopédistes"
+          },
+          {
+            "category": [],
+            "alias": "osteopathicphysicians",
+            "title": "Ostéopathes"
+          },
+          {
+            "category": [],
+            "alias": "pulmonologist",
+            "title": "Pneumologue"
+          },
+          {
+            "category": [],
+            "alias": "podiatrists",
+            "title": "Podologue"
+          },
+          {
+            "category": [],
+            "alias": "proctologist",
+            "title": "Proctologues"
+          },
+          {
+            "category": [],
+            "alias": "psychiatrists",
+            "title": "Psychiatres"
+          },
+          {
+            "category": [],
+            "alias": "pediatricians",
+            "title": "Pédiatres"
+          }
+        ],
+        "alias": "physicians",
+        "title": "Médecins"
+      },
+      {
+        "category": [],
+        "alias": "nutritionists",
+        "title": "Nutritionnistes"
+      },
+      {
+        "category": [],
+        "alias": "optometrists",
+        "title": "Optométrie"
+      },
+      {
+        "category": [],
+        "alias": "speech_therapists",
+        "title": "Orthophoniste"
+      },
+      {
+        "category": [],
+        "alias": "urgent_care",
+        "title": "Premiers soins"
+      },
+      {
+        "category": [],
+        "alias": "hearing_aids",
+        "title": "Prothèses Auditives"
+      },
+      {
+        "category": [],
+        "alias": "midwives",
+        "title": "Sage-femmes"
+      },
+      {
+        "category": [],
+        "alias": "homehealthcare",
+        "title": "Soins santé à domicile"
+      },
+      {
+        "category": [],
+        "alias": "medicalspa",
+        "title": "Spas médicaux"
+      }
+    ],
+    "alias": "health",
+    "title": "Santé et paramédical"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "insurance",
+        "title": "Assurance"
+      },
+      {
+        "category": [],
+        "alias": "banks",
+        "title": "Banques et organismes de crédit"
+      },
+      {
+        "category": [],
+        "alias": "financialadvising",
+        "title": "Conseils financiers"
+      },
+      {
+        "category": [],
+        "alias": "paydayloans",
+        "title": "Encaissement de chèques/Crédit personnel"
+      },
+      {
+        "category": [],
+        "alias": "investing",
+        "title": "Investissement"
+      },
+      {
+        "category": [],
+        "alias": "taxservices",
+        "title": "Services fiscaux"
+      }
+    ],
+    "alias": "financialservices",
+    "title": "Services financiers"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "recyclingcenter",
+        "title": "Centre de recyclage"
+      },
+      {
+        "category": [],
+        "alias": "shoerepair",
+        "title": "Cordonnier"
+      },
+      {
+        "category": [],
+        "alias": "sewingalterations",
+        "title": "Couture et retouches"
+      },
+      {
+        "category": [],
+        "alias": "snowremoval",
+        "title": "Déneigement"
+      },
+      {
+        "category": [],
+        "alias": "shipping_centers",
+        "title": "Envoi colis"
+      },
+      {
+        "category": [],
+        "alias": "childcare",
+        "title": "Garde d’enfants et haltes-garderies"
+      },
+      {
+        "category": [],
+        "alias": "copyshops",
+        "title": "Graveurs et Imprimeries"
+      },
+      {
+        "category": [],
+        "alias": "pest_control",
+        "title": "Insecticide"
+      },
+      {
+        "category": [],
+        "alias": "drycleaninglaundry",
+        "title": "Laveries, Pressing et Nettoyage à sec"
+      },
+      {
+        "category": [],
+        "alias": "carpet_cleaning",
+        "title": "Nettoyage de tapis"
+      },
+      {
+        "category": [],
+        "alias": "notaries",
+        "title": "Notaires"
+      },
+      {
+        "category": [],
+        "alias": "funeralservices",
+        "title": "Pompes funèbres et cimetières"
+      },
+      {
+        "category": [],
+        "alias": "reupholstery",
+        "title": "Restauration de mobilier"
+      },
+      {
+        "category": [],
+        "alias": "watch_repair",
+        "title": "Réparation de montre"
+      },
+      {
+        "category": [],
+        "alias": "electronicsrepair",
+        "title": "Réparation matériel électronique"
+      },
+      {
+        "category": [],
+        "alias": "selfstorage",
+        "title": "Self stockage"
+      },
+      {
+        "category": [],
+        "alias": "junkremovalandhauling",
+        "title": "Service de débarras et déblaiements"
+      },
+      {
+        "category": [],
+        "alias": "nonprofit",
+        "title": "Service à la communauté / à but non lucratif"
+      },
+      {
+        "category": [],
+        "alias": "itservices",
+        "title": "Services informatiques et réparation"
+      },
+      {
+        "category": [],
+        "alias": "couriers",
+        "title": "Services postaux et livraisons"
+      },
+      {
+        "category": [],
+        "alias": "recording_studios",
+        "title": "Studios d’enregistrement et de répétition"
+      },
+      {
+        "category": [],
+        "alias": "screenprinting",
+        "title": "Sérigraphie"
+      },
+      {
+        "category": [],
+        "alias": "homeappliancerepair",
+        "title": "Électroménager et réparation"
+      }
+    ],
+    "alias": "localservices",
+    "title": "Services locaux"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "employmentagencies",
+        "title": "Agences pour l’emploi"
+      },
+      {
+        "category": [],
+        "alias": "architects",
+        "title": "Architectes"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "general_litigation",
+            "title": "Contentieux général"
+          },
+          {
+            "category": [],
+            "alias": "divorce",
+            "title": "Divorces et droit de la famille"
+          },
+          {
+            "category": [],
+            "alias": "criminaldefense",
+            "title": "Droit criminel et pénal"
+          },
+          {
+            "category": [],
+            "alias": "immigrationlawyers",
+            "title": "Droit de l'immigration"
+          },
+          {
+            "category": [],
+            "alias": "bankruptcy",
+            "title": "Droit des faillites"
+          },
+          {
+            "category": [],
+            "alias": "personal_injury",
+            "title": "Droit des lésions corporelles"
+          },
+          {
+            "category": [],
+            "alias": "estateplanning",
+            "title": "Droit du patrimoine"
+          },
+          {
+            "category": [],
+            "alias": "employmentlawyers",
+            "title": "Droit du travail"
+          },
+          {
+            "category": [],
+            "alias": "realestatelawyers",
+            "title": "Droit immobilier"
+          }
+        ],
+        "alias": "lawyers",
+        "title": "Avocats"
+      },
+      {
+        "category": [],
+        "alias": "lifecoach",
+        "title": "Coach de vie"
+      },
+      {
+        "category": [],
+        "alias": "accountants",
+        "title": "Comptables"
+      },
+      {
+        "category": [],
+        "alias": "careercounseling",
+        "title": "Conseil carrière"
+      },
+      {
+        "category": [],
+        "alias": "graphicdesign",
+        "title": "Design Graphique"
+      },
+      {
+        "category": [],
+        "alias": "privateinvestigation",
+        "title": "Détective privé"
+      },
+      {
+        "category": [],
+        "alias": "isps",
+        "title": "Fournisseur d’accès Internet"
+      },
+      {
+        "category": [],
+        "alias": "marketing",
+        "title": "Marketing"
+      },
+      {
+        "category": [],
+        "alias": "officecleaning",
+        "title": "Nettoyage de bureaux"
+      },
+      {
+        "category": [],
+        "alias": "videofilmproductions",
+        "title": "Production de vidéo/film"
+      },
+      {
+        "category": [],
+        "alias": "advertising",
+        "title": "Publicité"
+      },
+      {
+        "category": [],
+        "alias": "publicrelations",
+        "title": "Relations publiques"
+      },
+      {
+        "category": [],
+        "alias": "boatrepair",
+        "title": "Réparation de bateaux"
+      },
+      {
+        "category": [],
+        "alias": "web_design",
+        "title": "Web design"
+      }
+    ],
+    "alias": "professional",
+    "title": "Services professionnels"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "libraries",
+        "title": "Bibliothèques"
+      },
+      {
+        "category": [],
+        "alias": "postoffices",
+        "title": "Bureaux de poste"
+      },
+      {
+        "category": [],
+        "alias": "policedepartments",
+        "title": "Commissariats de police"
+      },
+      {
+        "category": [],
+        "alias": "landmarks",
+        "title": "Lieux et bâtiments historiques"
+      }
+    ],
+    "alias": "publicservicesgovt",
+    "title": "Services publics et gouvernement"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "landscapearchitects",
+        "title": "Architectectes paysagistes"
+      },
+      {
+        "category": [],
+        "alias": "hvac",
+        "title": "Chauffage et air conditionné"
+      },
+      {
+        "category": [],
+        "alias": "locksmiths",
+        "title": "Clés et serrurerie"
+      },
+      {
+        "category": [],
+        "alias": "interiordesign",
+        "title": "Conception d’intérieur"
+      },
+      {
+        "category": [],
+        "alias": "movers",
+        "title": "Déménageurs"
+      },
+      {
+        "category": [],
+        "alias": "contractors",
+        "title": "Entreprises de bâtiment"
+      },
+      {
+        "category": [],
+        "alias": "home_inspectors",
+        "title": "Experts immobilier"
+      },
+      {
+        "category": [],
+        "alias": "isps",
+        "title": "Fournisseur d’accès Internet"
+      },
+      {
+        "category": [],
+        "alias": "buildingsupplies",
+        "title": "Fournitures immobilières"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "realestateagents",
+            "title": "Agents immobiliers"
+          },
+          {
+            "category": [],
+            "alias": "apartments",
+            "title": "Appartements meublés "
+          },
+          {
+            "category": [],
+            "alias": "mortgagebrokers",
+            "title": "Courtiers en prêts hypothécaires"
+          },
+          {
+            "category": [],
+            "alias": "homestaging",
+            "title": "Décoration d'Intérieur"
+          },
+          {
+            "category": [],
+            "alias": "propertymgmt",
+            "title": "Gestion de patrimoine"
+          },
+          {
+            "category": [],
+            "alias": "university_housing",
+            "title": "Logements universitaires"
+          },
+          {
+            "category": [],
+            "alias": "realestatesvcs",
+            "title": "Services immobiliers"
+          }
+        ],
+        "alias": "realestate",
+        "title": "Immobilier"
+      },
+      {
+        "category": [],
+        "alias": "solarinstallation",
+        "title": "Installation d'énergie solaire"
+      },
+      {
+        "category": [],
+        "alias": "hometheatreinstallation",
+        "title": "Installation de Home Cinema"
+      },
+      {
+        "category": [],
+        "alias": "windowsinstallation",
+        "title": "Installation de fenêtres"
+      },
+      {
+        "category": [],
+        "alias": "lighting",
+        "title": "Installation et équipement pour éclairage"
+      },
+      {
+        "category": [],
+        "alias": "gardeners",
+        "title": "Jardiniers"
+      },
+      {
+        "category": [],
+        "alias": "windowwashing",
+        "title": "Lavage de vitres"
+      },
+      {
+        "category": [],
+        "alias": "homecleaning",
+        "title": "Nettoyage domestique"
+      },
+      {
+        "category": [],
+        "alias": "poolcleaners",
+        "title": "Nettoyage piscine"
+      },
+      {
+        "category": [],
+        "alias": "televisionserviceproviders",
+        "title": "Opérateurs audiovisuels"
+      },
+      {
+        "category": [],
+        "alias": "landscaping",
+        "title": "Paysagistes"
+      },
+      {
+        "category": [],
+        "alias": "painters",
+        "title": "Peintres"
+      },
+      {
+        "category": [],
+        "alias": "handyman",
+        "title": "Petits Travaux À domicile"
+      },
+      {
+        "category": [],
+        "alias": "plumbing",
+        "title": "Plomberie"
+      },
+      {
+        "category": [],
+        "alias": "carpetinstallation",
+        "title": "Pose de moquettes/tapis"
+      },
+      {
+        "category": [],
+        "alias": "treeservices",
+        "title": "Service d'arboriculture"
+      },
+      {
+        "category": [],
+        "alias": "flooring",
+        "title": "Sols"
+      },
+      {
+        "category": [],
+        "alias": "blinds",
+        "title": "Stores et persiennes"
+      },
+      {
+        "category": [],
+        "alias": "securitysystems",
+        "title": "Système de sécurité"
+      },
+      {
+        "category": [],
+        "alias": "carpeting",
+        "title": "Tapis"
+      },
+      {
+        "category": [],
+        "alias": "roofing",
+        "title": "Toiture"
+      },
+      {
+        "category": [],
+        "alias": "electricians",
+        "title": "Électriciens"
+      }
+    ],
+    "alias": "homeservices",
+    "title": "Services à domicile"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "partysupplies",
+        "title": "Articles pour l’organisation de fêtes"
+      },
+      {
+        "category": [],
+        "alias": "boatcharters",
+        "title": "Bateaux Navettes"
+      },
+      {
+        "category": [],
+        "alias": "personalchefs",
+        "title": "Cuisiniers personnels"
+      },
+      {
+        "category": [],
+        "alias": "djs",
+        "title": "DJ"
+      },
+      {
+        "category": [],
+        "alias": "hotels",
+        "title": "Hôtels"
+      },
+      {
+        "category": [],
+        "alias": "stationery",
+        "title": "Papeteries"
+      },
+      {
+        "category": [],
+        "alias": "photographers",
+        "title": "Photographes"
+      },
+      {
+        "category": [],
+        "alias": "wedding_planning",
+        "title": "Planification de mariages"
+      },
+      {
+        "category": [],
+        "alias": "venues",
+        "title": "Salles et espaces événementiels"
+      },
+      {
+        "category": [],
+        "alias": "catering",
+        "title": "Traiteurs"
+      },
+      {
+        "category": [],
+        "alias": "videographers",
+        "title": "Vidéastes"
+      },
+      {
+        "category": [],
+        "alias": "eventplanning",
+        "title": "Événementiel"
+      }
+    ],
+    "alias": "eventservices",
+    "title": "Services événementiels"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "pawn",
+        "title": "Achat-vente aux particuliers"
+      },
+      {
+        "category": [],
+        "alias": "adult",
+        "title": "Adulte"
+      },
+      {
+        "category": [],
+        "alias": "antiques",
+        "title": "Antiquités"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "bikes",
+            "title": "Vélos"
+          },
+          {
+            "category": [],
+            "alias": "sportswear",
+            "title": "Vêtements de sport"
+          },
+          {
+            "category": [],
+            "alias": "outdoorgear",
+            "title": "Équipement pour l’extérieur"
+          }
+        ],
+        "alias": "sportgoods",
+        "title": "Articles de sport"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "costumes",
+            "title": "Déguisements"
+          },
+          {
+            "category": [],
+            "alias": "framing",
+            "title": "Encadrement"
+          },
+          {
+            "category": [],
+            "alias": "artsupplies",
+            "title": "Fournitures d’art"
+          },
+          {
+            "category": [],
+            "alias": "fabricstores",
+            "title": "Magasins de textile"
+          },
+          {
+            "category": [],
+            "alias": "stationery",
+            "title": "Papeteries"
+          }
+        ],
+        "alias": "artsandcrafts",
+        "title": "Artisanat"
+      },
+      {
+        "category": [],
+        "alias": "luggage",
+        "title": "Bagages"
+      },
+      {
+        "category": [],
+        "alias": "jewelry",
+        "title": "Bijouterie et Joaillerie"
+      },
+      {
+        "category": [],
+        "alias": "spiritual_shop",
+        "title": "Boutique spirituelle"
+      },
+      {
+        "category": [],
+        "alias": "shoppingcenters",
+        "title": "Centres commerciaux"
+      },
+      {
+        "category": [],
+        "alias": "concept_shops",
+        "title": "Concept Stores"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "florists",
+            "title": "Fleuristes"
+          },
+          {
+            "category": [],
+            "alias": "stationery",
+            "title": "Papeteries"
+          }
+        ],
+        "alias": "flowers",
+        "title": "Fleurs et cadeaux"
+      },
+      {
+        "category": [],
+        "alias": "galleries",
+        "title": "Galeries d’art"
+      },
+      {
+        "category": [],
+        "alias": "deptstores",
+        "title": "Grands magasins"
+      },
+      {
+        "category": [],
+        "alias": "wholesale_stores",
+        "title": "Grossistes"
+      },
+      {
+        "category": [],
+        "alias": "musicalinstrumentsandteachers",
+        "title": "Instruments et professeurs de musique"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "comicbooks",
+            "title": "Bandes dessinées"
+          },
+          {
+            "category": [],
+            "alias": "vinyl_records",
+            "title": "Disques vinyle"
+          },
+          {
+            "category": [],
+            "alias": "mags",
+            "title": "Journaux et magazines"
+          },
+          {
+            "category": [],
+            "alias": "bookstores",
+            "title": "Librairies"
+          },
+          {
+            "category": [],
+            "alias": "videoandgames",
+            "title": "Location de films et de jeux vidéo"
+          },
+          {
+            "category": [],
+            "alias": "musicvideo",
+            "title": "Musique et DVD"
+          }
+        ],
+        "alias": "media",
+        "title": "Livres, magazines, musique et vidéo"
+      },
+      {
+        "category": [],
+        "alias": "opticians",
+        "title": "Lunettes et opticiens"
+      },
+      {
+        "category": [],
+        "alias": "thrift_stores",
+        "title": "Magasins d'occasion"
+      },
+      {
+        "category": [],
+        "alias": "toys",
+        "title": "Magasins de jouets"
+      },
+      {
+        "category": [],
+        "alias": "hobbyshops",
+        "title": "Magasins de loisirs"
+      },
+      {
+        "category": [],
+        "alias": "discountstore",
+        "title": "Magasins discount"
+      },
+      {
+        "category": [],
+        "alias": "outlet_stores",
+        "title": "Magasins d’usine"
+      },
+      {
+        "category": [],
+        "alias": "photographystores",
+        "title": "Magasins et services de photographie"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "tableware",
+            "title": "Arts de la table"
+          },
+          {
+            "category": [],
+            "alias": "kitchenandbath",
+            "title": "Cuisine et salle de bain"
+          },
+          {
+            "category": [],
+            "alias": "homedecor",
+            "title": "Décoration d’intérieur"
+          },
+          {
+            "category": [],
+            "alias": "hottubandpool",
+            "title": "Jacuzzi et piscine"
+          },
+          {
+            "category": [],
+            "alias": "linens",
+            "title": "Linge de maison"
+          },
+          {
+            "category": [],
+            "alias": "furniture",
+            "title": "Magasins d’ameublement"
+          },
+          {
+            "category": [],
+            "alias": "mattresses",
+            "title": "Matelas"
+          },
+          {
+            "category": [],
+            "alias": "gardening",
+            "title": "Pépinière et jardinage"
+          },
+          {
+            "category": [],
+            "alias": "hardware",
+            "title": "Quincaillerie"
+          },
+          {
+            "category": [],
+            "alias": "appliances",
+            "title": "Électroménager"
+          }
+        ],
+        "alias": "homeandgarden",
+        "title": "Maison et jardin"
+      },
+      {
+        "category": [],
+        "alias": "fleamarkets",
+        "title": "Marché aux puces"
+      },
+      {
+        "category": [],
+        "alias": "bridal",
+        "title": "Mariage"
+      },
+      {
+        "category": [],
+        "alias": "baby_gear",
+        "title": "Matériel et meubles pour bébé"
+      },
+      {
+        "category": [],
+        "alias": "knittingsupplies",
+        "title": "Mercerie et Matériel de couture"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "accessories",
+            "title": "Accessoires"
+          },
+          {
+            "category": [],
+            "alias": "deptstores",
+            "title": "Grands magasins"
+          },
+          {
+            "category": [],
+            "alias": "shoes",
+            "title": "Magasins de chaussures"
+          },
+          {
+            "category": [],
+            "alias": "swimwear",
+            "title": "Maillots de bain"
+          },
+          {
+            "category": [],
+            "alias": "leather",
+            "title": "Maroquinerie"
+          },
+          {
+            "category": [],
+            "alias": "vintage",
+            "title": "Occasion, vintage et dépôt-vente"
+          },
+          {
+            "category": [],
+            "alias": "lingerie",
+            "title": "Sous-vêtements"
+          },
+          {
+            "category": [],
+            "alias": "maternity",
+            "title": "Vêtements de maternité"
+          },
+          {
+            "category": [],
+            "alias": "sportswear",
+            "title": "Vêtements de sport"
+          },
+          {
+            "category": [],
+            "alias": "childcloth",
+            "title": "Vêtements pour enfants"
+          },
+          {
+            "category": [],
+            "alias": "womenscloth",
+            "title": "Vêtements pour femmes"
+          },
+          {
+            "category": [],
+            "alias": "menscloth",
+            "title": "Vêtements pour hommes"
+          }
+        ],
+        "alias": "fashion",
+        "title": "Mode"
+      },
+      {
+        "category": [],
+        "alias": "watches",
+        "title": "Montres"
+      },
+      {
+        "category": [],
+        "alias": "computers",
+        "title": "Ordinateurs et Matériel informatique"
+      },
+      {
+        "category": [],
+        "alias": "perfume",
+        "title": "Parfumerie"
+      },
+      {
+        "category": [],
+        "alias": "drugstores",
+        "title": "Pharmacies"
+      },
+      {
+        "category": [],
+        "alias": "mobilephones",
+        "title": "Portables"
+      },
+      {
+        "category": [],
+        "alias": "cosmetics",
+        "title": "Produits de beauté et cosmétiques"
+      },
+      {
+        "category": [],
+        "alias": "personal_shopping",
+        "title": "Shopping personnalisé"
+      },
+      {
+        "category": [],
+        "alias": "tobaccoshops",
+        "title": "Tabacs"
+      },
+      {
+        "category": [],
+        "alias": "electronics",
+        "title": "Électronique"
+      },
+      {
+        "category": [],
+        "alias": "officeequipment",
+        "title": "Équipement pour le bureau"
+      }
+    ],
+    "alias": "shopping",
+    "title": "Shopping"
+  },
+  {
+    "category": [],
+    "alias": "localflavor",
+    "title": "Spécialités locales"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "playgrounds",
+        "title": "Aires de jeux"
+      },
+      {
+        "category": [],
+        "alias": "aquariums",
+        "title": "Aquariums"
+      },
+      {
+        "category": [],
+        "alias": "bowling",
+        "title": "Bowling"
+      },
+      {
+        "category": [],
+        "alias": "summer_camps",
+        "title": "Camps de vacances"
+      },
+      {
+        "category": [],
+        "alias": "recreation",
+        "title": "Centre de loisirs"
+      },
+      {
+        "category": [],
+        "alias": "leisure_centers",
+        "title": "Centres de loisirs"
+      },
+      {
+        "category": [],
+        "alias": "sports_clubs",
+        "title": "Clubs de sport"
+      },
+      {
+        "category": [],
+        "alias": "discgolf",
+        "title": "Disc-Golf"
+      },
+      {
+        "category": [],
+        "alias": "amateursportsteams",
+        "title": "Equipes sportives d'amateurs"
+      },
+      {
+        "category": [],
+        "alias": "climbing",
+        "title": "Escalade"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "martialarts",
+            "title": "Arts martiaux"
+          },
+          {
+            "category": [],
+            "alias": "pilates",
+            "title": "Pilates"
+          },
+          {
+            "category": [],
+            "alias": "healthtrainers",
+            "title": "Profs de sport"
+          },
+          {
+            "category": [],
+            "alias": "gyms",
+            "title": "Salles de sport"
+          },
+          {
+            "category": [],
+            "alias": "dancestudio",
+            "title": "Studios de danse"
+          },
+          {
+            "category": [],
+            "alias": "taichi",
+            "title": "Tai Chi"
+          },
+          {
+            "category": [],
+            "alias": "yoga",
+            "title": "Yoga"
+          },
+          {
+            "category": [],
+            "alias": "swimminglessons",
+            "title": "Écoles/Cours de natation"
+          }
+        ],
+        "alias": "fitness",
+        "title": "Fitness et coaching"
+      },
+      {
+        "category": [],
+        "alias": "football",
+        "title": "Football"
+      },
+      {
+        "category": [],
+        "alias": "golf",
+        "title": "Golf"
+      },
+      {
+        "category": [],
+        "alias": "gokarts",
+        "title": "Karting"
+      },
+      {
+        "category": [],
+        "alias": "lakes",
+        "title": "Lacs"
+      },
+      {
+        "category": [],
+        "alias": "bikerentals",
+        "title": "Location de vélos"
+      },
+      {
+        "category": [],
+        "alias": "mini_golf",
+        "title": "Mini Golf"
+      },
+      {
+        "category": [],
+        "alias": "boating",
+        "title": "Navigation"
+      },
+      {
+        "category": [],
+        "alias": "skydiving",
+        "title": "Parachutisme"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "dog_parks",
+            "title": "Parcs pour chiens"
+          },
+          {
+            "category": [],
+            "alias": "skate_parks",
+            "title": "Parcs pour skateboards"
+          }
+        ],
+        "alias": "parks",
+        "title": "Parcs"
+      },
+      {
+        "category": [],
+        "alias": "amusementparks",
+        "title": "Parcs d’attraction"
+      },
+      {
+        "category": [],
+        "alias": "skatingrinks",
+        "title": "Patinoires"
+      },
+      {
+        "category": [],
+        "alias": "swimmingpools",
+        "title": "Piscines"
+      },
+      {
+        "category": [],
+        "alias": "beaches",
+        "title": "Plages"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "freediving",
+            "title": "Apnée"
+          },
+          {
+            "category": [],
+            "alias": "scuba",
+            "title": "Plongée sous-marine"
+          }
+        ],
+        "alias": "diving",
+        "title": "Plongée"
+      },
+      {
+        "category": [],
+        "alias": "fishing",
+        "title": "Pêche"
+      },
+      {
+        "category": [],
+        "alias": "rafting",
+        "title": "Rafting/Kayak"
+      },
+      {
+        "category": [],
+        "alias": "hiking",
+        "title": "Randonnée"
+      },
+      {
+        "category": [],
+        "alias": "tennis",
+        "title": "Tennis"
+      },
+      {
+        "category": [],
+        "alias": "archery",
+        "title": "Tir à l'arc"
+      },
+      {
+        "category": [],
+        "alias": "mountainbiking",
+        "title": "VTT"
+      },
+      {
+        "category": [],
+        "alias": "zoos",
+        "title": "Zoos"
+      },
+      {
+        "category": [],
+        "alias": "horsebackriding",
+        "title": "Équitation"
+      }
+    ],
+    "alias": "active",
+    "title": "Vie active"
+  },
+  {
+    "category": [
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "lounges",
+            "title": "Bar-lounges"
+          },
+          {
+            "category": [],
+            "alias": "sportsbars",
+            "title": "Bars des sports"
+          },
+          {
+            "category": [],
+            "alias": "gaybars",
+            "title": "Bars gay"
+          },
+          {
+            "category": [],
+            "alias": "champagne_bars",
+            "title": "Bars à Champagne"
+          },
+          {
+            "category": [],
+            "alias": "hookah_bars",
+            "title": "Bars à narguilé"
+          },
+          {
+            "category": [],
+            "alias": "wine_bars",
+            "title": "Bars à vins"
+          },
+          {
+            "category": [],
+            "alias": "pubs",
+            "title": "Pubs"
+          },
+          {
+            "category": [],
+            "alias": "divebars",
+            "title": "Troquets et Bars PMU"
+          }
+        ],
+        "alias": "bars",
+        "title": "Bars"
+      },
+      {
+        "category": [],
+        "alias": "danceclubs",
+        "title": "Boîtes de nuit"
+      },
+      {
+        "category": [],
+        "alias": "comedyclubs",
+        "title": "Comedy Clubs"
+      },
+      {
+        "category": [],
+        "alias": "adultentertainment",
+        "title": "Divertissements pour adultes"
+      },
+      {
+        "category": [],
+        "alias": "jazzandblues",
+        "title": "Jazz et blues"
+      },
+      {
+        "category": [],
+        "alias": "karaoke",
+        "title": "Karaoke"
+      },
+      {
+        "category": [],
+        "alias": "poolhalls",
+        "title": "Salles de billard"
+      },
+      {
+        "category": [],
+        "alias": "musicvenues",
+        "title": "Salles de concert"
+      }
+    ],
+    "alias": "nightlife",
+    "title": "Vie nocturne"
+  }
+]

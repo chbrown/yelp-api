@@ -1,0 +1,2753 @@
+[
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "aquariums",
+        "title": "Akvaariot"
+      },
+      {
+        "category": [],
+        "alias": "amateursportsteams",
+        "title": "Amatööriurheilujoukkueet"
+      },
+      {
+        "category": [],
+        "alias": "gun_ranges",
+        "title": "Ampumaradat"
+      },
+      {
+        "category": [],
+        "alias": "zoos",
+        "title": "Eläintarhat"
+      },
+      {
+        "category": [],
+        "alias": "discgolf",
+        "title": "Frisbeegolf"
+      },
+      {
+        "category": [],
+        "alias": "golf",
+        "title": "Golf"
+      },
+      {
+        "category": [],
+        "alias": "amusementparks",
+        "title": "Huvipuistot"
+      },
+      {
+        "category": [],
+        "alias": "football",
+        "title": "Jalkapallo"
+      },
+      {
+        "category": [],
+        "alias": "archery",
+        "title": "Jousiammunta"
+      },
+      {
+        "category": [],
+        "alias": "lakes",
+        "title": "Järvet"
+      },
+      {
+        "category": [],
+        "alias": "fishing",
+        "title": "Kalastus"
+      },
+      {
+        "category": [],
+        "alias": "gokarts",
+        "title": "Karting"
+      },
+      {
+        "category": [],
+        "alias": "bowling",
+        "title": "Keilailu"
+      },
+      {
+        "category": [],
+        "alias": "summer_camps",
+        "title": "Kesäleirit"
+      },
+      {
+        "category": [],
+        "alias": "climbing",
+        "title": "Kiipeily"
+      },
+      {
+        "category": [],
+        "alias": "rafting",
+        "title": "Koskenlasku/melonta"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "yoga",
+            "title": "Jooga"
+          },
+          {
+            "category": [],
+            "alias": "gyms",
+            "title": "Kuntokeskukset"
+          },
+          {
+            "category": [],
+            "alias": "pilates",
+            "title": "Pilates"
+          },
+          {
+            "category": [],
+            "alias": "taichi",
+            "title": "Tai Chi"
+          },
+          {
+            "category": [],
+            "alias": "martialarts",
+            "title": "Taistelulajit"
+          },
+          {
+            "category": [],
+            "alias": "dancestudio",
+            "title": "Tanssistudiot"
+          },
+          {
+            "category": [],
+            "alias": "swimminglessons",
+            "title": "Uimakoulut"
+          },
+          {
+            "category": [],
+            "alias": "healthtrainers",
+            "title": "Valmentajat"
+          }
+        ],
+        "alias": "fitness",
+        "title": "Kuntoilupalvelut"
+      },
+      {
+        "category": [],
+        "alias": "skydiving",
+        "title": "Laskuvarjohyppy"
+      },
+      {
+        "category": [],
+        "alias": "playgrounds",
+        "title": "Leikkikentät"
+      },
+      {
+        "category": [],
+        "alias": "leisure_centers",
+        "title": "Liikuntapaikat"
+      },
+      {
+        "category": [],
+        "alias": "skatingrinks",
+        "title": "Luisteluradat"
+      },
+      {
+        "category": [],
+        "alias": "mountainbiking",
+        "title": "Maastopyöräily"
+      },
+      {
+        "category": [],
+        "alias": "mini_golf",
+        "title": "Minigolf"
+      },
+      {
+        "category": [],
+        "alias": "bikerentals",
+        "title": "Polkupyörävuokraamot"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "dog_parks",
+            "title": "Koirapuistot"
+          },
+          {
+            "category": [],
+            "alias": "skate_parks",
+            "title": "Skeittiparkit"
+          }
+        ],
+        "alias": "parks",
+        "title": "Puistot"
+      },
+      {
+        "category": [],
+        "alias": "beaches",
+        "title": "Rannat"
+      },
+      {
+        "category": [],
+        "alias": "horsebackriding",
+        "title": "Ratsastus"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "scuba",
+            "title": "Laitesukellus"
+          },
+          {
+            "category": [],
+            "alias": "freediving",
+            "title": "Vapaasukellus"
+          }
+        ],
+        "alias": "diving",
+        "title": "Sukellus"
+      },
+      {
+        "category": [],
+        "alias": "tennis",
+        "title": "Tennis"
+      },
+      {
+        "category": [],
+        "alias": "swimmingpools",
+        "title": "Uima-altaat"
+      },
+      {
+        "category": [],
+        "alias": "sports_clubs",
+        "title": "Urheilukerhot"
+      },
+      {
+        "category": [],
+        "alias": "hiking",
+        "title": "Vaellus"
+      },
+      {
+        "category": [],
+        "alias": "boating",
+        "title": "Veneily"
+      },
+      {
+        "category": [],
+        "alias": "recreation",
+        "title": "Virkistysalueet"
+      }
+    ],
+    "alias": "active",
+    "title": "Aktiviteetit"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "architects",
+        "title": "Arkkitehdit"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "personal_injury",
+            "title": "Henkilövahinkolaki"
+          },
+          {
+            "category": [],
+            "alias": "realestatelawyers",
+            "title": "Kiinteistönvälityslaki"
+          },
+          {
+            "category": [],
+            "alias": "bankruptcy",
+            "title": "Konkurssilaki"
+          },
+          {
+            "category": [],
+            "alias": "immigrationlawyers",
+            "title": "Maahanmuuttolaki"
+          },
+          {
+            "category": [],
+            "alias": "estateplanning",
+            "title": "Omaisuudenhoitolaki"
+          },
+          {
+            "category": [],
+            "alias": "divorce",
+            "title": "Perheoikeus"
+          },
+          {
+            "category": [],
+            "alias": "criminaldefense",
+            "title": "Rikosasianajolaki"
+          },
+          {
+            "category": [],
+            "alias": "employmentlawyers",
+            "title": "Työllisyyslaki"
+          },
+          {
+            "category": [],
+            "alias": "general_litigation",
+            "title": "Yleiset oikeuskiistat"
+          }
+        ],
+        "alias": "lawyers",
+        "title": "Asianajajat"
+      },
+      {
+        "category": [],
+        "alias": "lifecoach",
+        "title": "Elämänvalmentajat"
+      },
+      {
+        "category": [],
+        "alias": "graphicdesign",
+        "title": "Graafinen suunnittelu"
+      },
+      {
+        "category": [],
+        "alias": "isps",
+        "title": "Internet-palveluntarjoajat"
+      },
+      {
+        "category": [],
+        "alias": "accountants",
+        "title": "Kirjanpitäjät"
+      },
+      {
+        "category": [],
+        "alias": "advertising",
+        "title": "Mainostoimistot"
+      },
+      {
+        "category": [],
+        "alias": "marketing",
+        "title": "Markkinointi"
+      },
+      {
+        "category": [],
+        "alias": "publicrelations",
+        "title": "PR"
+      },
+      {
+        "category": [],
+        "alias": "officecleaning",
+        "title": "Toimistosiivous"
+      },
+      {
+        "category": [],
+        "alias": "employmentagencies",
+        "title": "Työnvälitystoimistot"
+      },
+      {
+        "category": [],
+        "alias": "careercounseling",
+        "title": "Uraohjaus"
+      },
+      {
+        "category": [],
+        "alias": "boatrepair",
+        "title": "Venekorjaamot"
+      },
+      {
+        "category": [],
+        "alias": "videofilmproductions",
+        "title": "Videotuotanto"
+      },
+      {
+        "category": [],
+        "alias": "web_design",
+        "title": "Web-suunnittelu"
+      },
+      {
+        "category": [],
+        "alias": "privateinvestigation",
+        "title": "Yksityisetsivät"
+      }
+    ],
+    "alias": "professional",
+    "title": "Asiantuntijapalvelut"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "bodyshops",
+        "title": "Autokorikorjaamot"
+      },
+      {
+        "category": [],
+        "alias": "autorepair",
+        "title": "Autokorjaamot"
+      },
+      {
+        "category": [],
+        "alias": "autoglass",
+        "title": "Autolasipalvelut"
+      },
+      {
+        "category": [],
+        "alias": "car_dealers",
+        "title": "Autoliikkeet"
+      },
+      {
+        "category": [],
+        "alias": "auto_detailing",
+        "title": "Autonpuhdistus"
+      },
+      {
+        "category": [],
+        "alias": "tires",
+        "title": "Autonrenkaat"
+      },
+      {
+        "category": [],
+        "alias": "carwash",
+        "title": "Autopesulat"
+      },
+      {
+        "category": [],
+        "alias": "stereo_installation",
+        "title": "Autostereoiden asennus"
+      },
+      {
+        "category": [],
+        "alias": "autopartssupplies",
+        "title": "Autotarvikkeet ja osat"
+      },
+      {
+        "category": [],
+        "alias": "towing",
+        "title": "Hinauspalvelut"
+      },
+      {
+        "category": [],
+        "alias": "servicestations",
+        "title": "Huoltoasemat"
+      },
+      {
+        "category": [],
+        "alias": "motorcyclerepair",
+        "title": "Moottoripyöräkorjaajat"
+      },
+      {
+        "category": [],
+        "alias": "motorcycledealers",
+        "title": "Moottoripyöräliikkeet"
+      },
+      {
+        "category": [],
+        "alias": "parking",
+        "title": "Paikoitus"
+      },
+      {
+        "category": [],
+        "alias": "smog_check_stations",
+        "title": "Päästötarkastusasemat"
+      },
+      {
+        "category": [],
+        "alias": "windshieldinstallrepair",
+        "title": "Tuulilasin asennus ja korjaus"
+      },
+      {
+        "category": [],
+        "alias": "oilchange",
+        "title": "Öljynvaihto"
+      }
+    ],
+    "alias": "auto",
+    "title": "Autot"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "rvrental",
+        "title": "Asuntoautojen vuokraus"
+      },
+      {
+        "category": [],
+        "alias": "carrental",
+        "title": "Autonvuokraus"
+      },
+      {
+        "category": [],
+        "alias": "bedbreakfast",
+        "title": "Bed & breakfast"
+      },
+      {
+        "category": [],
+        "alias": "skiresorts",
+        "title": "Hiihtokeskukset"
+      },
+      {
+        "category": [],
+        "alias": "hostels",
+        "title": "Hostellit"
+      },
+      {
+        "category": [],
+        "alias": "hotels",
+        "title": "Hotellit"
+      },
+      {
+        "category": [],
+        "alias": "tours",
+        "title": "Kiertoajelut"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "publictransport",
+            "title": "Julkinen liikenne"
+          },
+          {
+            "category": [],
+            "alias": "airport_shuttles",
+            "title": "Lentokenttäkuljetukset"
+          },
+          {
+            "category": [],
+            "alias": "airlines",
+            "title": "Lentoyhtiöt"
+          },
+          {
+            "category": [],
+            "alias": "limos",
+            "title": "Limusiinit"
+          },
+          {
+            "category": [],
+            "alias": "taxis",
+            "title": "Taksit"
+          }
+        ],
+        "alias": "transport",
+        "title": "Kuljetusliikkeet"
+      },
+      {
+        "category": [],
+        "alias": "campgrounds",
+        "title": "Leirintäalueet"
+      },
+      {
+        "category": [],
+        "alias": "airports",
+        "title": "Lentokentät"
+      },
+      {
+        "category": [],
+        "alias": "vacationrentalagents",
+        "title": "Lomamökkien välittäjät"
+      },
+      {
+        "category": [],
+        "alias": "guesthouses",
+        "title": "Majatalot"
+      },
+      {
+        "category": [],
+        "alias": "travelservices",
+        "title": "Matkatoimistot"
+      }
+    ],
+    "alias": "hotelstravel",
+    "title": "Hotellit ja matkailu"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "printmedia",
+        "title": "Painettu media"
+      },
+      {
+        "category": [],
+        "alias": "radiostations",
+        "title": "Radiokanavat"
+      },
+      {
+        "category": [],
+        "alias": "televisionstations",
+        "title": "Televisioasemat"
+      }
+    ],
+    "alias": "massmedia",
+    "title": "Joukkotiedotusvälineet"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "departmentsofmotorvehicles",
+        "title": "Katsastusasemat"
+      },
+      {
+        "category": [],
+        "alias": "libraries",
+        "title": "Kirjastot"
+      },
+      {
+        "category": [],
+        "alias": "landmarks",
+        "title": "Maamerkit ja historialliset rakennukset"
+      },
+      {
+        "category": [],
+        "alias": "policedepartments",
+        "title": "Poliisilaitokset"
+      },
+      {
+        "category": [],
+        "alias": "postoffices",
+        "title": "Posti"
+      }
+    ],
+    "alias": "publicservicesgovt",
+    "title": "Julkiset palvelut"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "massage",
+        "title": "Hieronta"
+      },
+      {
+        "category": [],
+        "alias": "skincare",
+        "title": "Ihonhoito"
+      },
+      {
+        "category": [],
+        "alias": "hair",
+        "title": "Kampaamot"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "laser_hair_removal",
+            "title": "Laser-karvanpoisto"
+          }
+        ],
+        "alias": "hairremoval",
+        "title": "Karvanpoisto"
+      },
+      {
+        "category": [],
+        "alias": "cosmetics",
+        "title": "Kosmetiikka ja kauneudenhoitotuotteet"
+      },
+      {
+        "category": [],
+        "alias": "piercing",
+        "title": "Lävistykset"
+      },
+      {
+        "category": [],
+        "alias": "othersalons",
+        "title": "Manikyyri"
+      },
+      {
+        "category": [],
+        "alias": "makeupartists",
+        "title": "Meikkitaiteilijat"
+      },
+      {
+        "category": [],
+        "alias": "barbers",
+        "title": "Parturit"
+      },
+      {
+        "category": [],
+        "alias": "spas",
+        "title": "Päiväkylpylät"
+      },
+      {
+        "category": [],
+        "alias": "eyelashservice",
+        "title": "Ripsipidennykset"
+      },
+      {
+        "category": [],
+        "alias": "tanning",
+        "title": "Solarium"
+      },
+      {
+        "category": [],
+        "alias": "tattoo",
+        "title": "Tatuoinnit"
+      },
+      {
+        "category": [],
+        "alias": "medicalspa",
+        "title": "Terveyskylpylät"
+      }
+    ],
+    "alias": "beautysvc",
+    "title": "Kauneus ja kylpylät"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "apartments",
+        "title": "Asunnot"
+      },
+      {
+        "category": [],
+        "alias": "mortgagebrokers",
+        "title": "Asuntolainat"
+      },
+      {
+        "category": [],
+        "alias": "homestaging",
+        "title": "Kiinteistön ehostus"
+      },
+      {
+        "category": [],
+        "alias": "propertymgmt",
+        "title": "Kiinteistönhoito"
+      },
+      {
+        "category": [],
+        "alias": "realestateagents",
+        "title": "Kiinteistönvälittäjät"
+      },
+      {
+        "category": [],
+        "alias": "realestatesvcs",
+        "title": "Kiinteistöpalvelut"
+      },
+      {
+        "category": [],
+        "alias": "university_housing",
+        "title": "Opiskelija-asuntolat"
+      }
+    ],
+    "alias": "realestate",
+    "title": "Kiinteistönvälitys"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "solarinstallation",
+        "title": "Aurinkopaneelien asennukset"
+      },
+      {
+        "category": [],
+        "alias": "locksmiths",
+        "title": "Avaimet ja lukkosepät"
+      },
+      {
+        "category": [],
+        "alias": "windowsinstallation",
+        "title": "Ikkunoiden asennus"
+      },
+      {
+        "category": [],
+        "alias": "windowwashing",
+        "title": "Ikkunoiden pesu"
+      },
+      {
+        "category": [],
+        "alias": "isps",
+        "title": "Internet-palveluntarjoajat"
+      },
+      {
+        "category": [],
+        "alias": "roofing",
+        "title": "Kattotyöt"
+      },
+      {
+        "category": [],
+        "alias": "home_inspectors",
+        "title": "Kiinteistöntarkastajat"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "apartments",
+            "title": "Asunnot"
+          },
+          {
+            "category": [],
+            "alias": "mortgagebrokers",
+            "title": "Asuntolainat"
+          },
+          {
+            "category": [],
+            "alias": "homestaging",
+            "title": "Kiinteistön ehostus"
+          },
+          {
+            "category": [],
+            "alias": "propertymgmt",
+            "title": "Kiinteistönhoito"
+          },
+          {
+            "category": [],
+            "alias": "realestateagents",
+            "title": "Kiinteistönvälittäjät"
+          },
+          {
+            "category": [],
+            "alias": "realestatesvcs",
+            "title": "Kiinteistöpalvelut"
+          },
+          {
+            "category": [],
+            "alias": "university_housing",
+            "title": "Opiskelija-asuntolat"
+          }
+        ],
+        "alias": "realestate",
+        "title": "Kiinteistönvälitys"
+      },
+      {
+        "category": [],
+        "alias": "carpeting",
+        "title": "Kokolattiamatot"
+      },
+      {
+        "category": [],
+        "alias": "homecleaning",
+        "title": "Kotisiivous"
+      },
+      {
+        "category": [],
+        "alias": "hometheatreinstallation",
+        "title": "Kotiteatteriasennukset"
+      },
+      {
+        "category": [],
+        "alias": "flooring",
+        "title": "Lattianpäällystys"
+      },
+      {
+        "category": [],
+        "alias": "hvac",
+        "title": "Lämmitys ja ilmastointi/LVI"
+      },
+      {
+        "category": [],
+        "alias": "painters",
+        "title": "Maalarit"
+      },
+      {
+        "category": [],
+        "alias": "landscapearchitects",
+        "title": "Maisema-arkkitehdit"
+      },
+      {
+        "category": [],
+        "alias": "landscaping",
+        "title": "Maisemasuunnittelu"
+      },
+      {
+        "category": [],
+        "alias": "blinds",
+        "title": "Markiisit ja kaihtimet"
+      },
+      {
+        "category": [],
+        "alias": "carpetinstallation",
+        "title": "Matonasennus"
+      },
+      {
+        "category": [],
+        "alias": "movers",
+        "title": "Muuttopalvelut"
+      },
+      {
+        "category": [],
+        "alias": "plumbing",
+        "title": "Putkityöt"
+      },
+      {
+        "category": [],
+        "alias": "treeservices",
+        "title": "Puunhoito"
+      },
+      {
+        "category": [],
+        "alias": "gardeners",
+        "title": "Puutarhurit"
+      },
+      {
+        "category": [],
+        "alias": "buildingsupplies",
+        "title": "Rakennustarvikkeet"
+      },
+      {
+        "category": [],
+        "alias": "interiordesign",
+        "title": "Sisustussuunnittelu"
+      },
+      {
+        "category": [],
+        "alias": "electricians",
+        "title": "Sähköasentajat"
+      },
+      {
+        "category": [],
+        "alias": "televisionserviceproviders",
+        "title": "TV-tarjoajat"
+      },
+      {
+        "category": [],
+        "alias": "securitysystems",
+        "title": "Turvajärjestelmät"
+      },
+      {
+        "category": [],
+        "alias": "poolcleaners",
+        "title": "Uima-altaan puhdistus"
+      },
+      {
+        "category": [],
+        "alias": "contractors",
+        "title": "Urakoitsijat"
+      },
+      {
+        "category": [],
+        "alias": "lighting",
+        "title": "Valaistus"
+      },
+      {
+        "category": [],
+        "alias": "handyman",
+        "title": "Yleismiehet"
+      }
+    ],
+    "alias": "homeservices",
+    "title": "Kotitalouspalvelut"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "adultedu",
+        "title": "Aikuiskoulutus"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "vocation",
+            "title": "Ammattikoulut"
+          },
+          {
+            "category": [],
+            "alias": "driving_schools",
+            "title": "Autokoulut"
+          },
+          {
+            "category": [],
+            "alias": "massage_schools",
+            "title": "Hierontakoulut"
+          },
+          {
+            "category": [],
+            "alias": "language_schools",
+            "title": "Kielikoulut"
+          },
+          {
+            "category": [],
+            "alias": "cookingschools",
+            "title": "Kokkikoulut"
+          },
+          {
+            "category": [],
+            "alias": "cosmetology_schools",
+            "title": "Kosmetologikoulut"
+          },
+          {
+            "category": [],
+            "alias": "flightinstruction",
+            "title": "Lennonopetus"
+          },
+          {
+            "category": [],
+            "alias": "artschools",
+            "title": "Taidekoulut"
+          },
+          {
+            "category": [],
+            "alias": "dance_schools",
+            "title": "Tanssikoulut"
+          },
+          {
+            "category": [],
+            "alias": "swimminglessons",
+            "title": "Uimakoulut"
+          }
+        ],
+        "alias": "specialtyschools",
+        "title": "Erikoistuneet koulut"
+      },
+      {
+        "category": [],
+        "alias": "specialed",
+        "title": "Erityisopetus"
+      },
+      {
+        "category": [],
+        "alias": "preschools",
+        "title": "Esikoulut"
+      },
+      {
+        "category": [],
+        "alias": "collegeuniv",
+        "title": "Korkeakoulut ja yliopistot"
+      },
+      {
+        "category": [],
+        "alias": "educationservices",
+        "title": "Koulutuspalvelut"
+      },
+      {
+        "category": [],
+        "alias": "elementaryschools",
+        "title": "Peruskoulut"
+      },
+      {
+        "category": [],
+        "alias": "testprep",
+        "title": "Pääsykoevalmennus"
+      },
+      {
+        "category": [],
+        "alias": "tutoring",
+        "title": "Tuutorointipalvelut"
+      },
+      {
+        "category": [],
+        "alias": "privatetutors",
+        "title": "Yksityisopettajat"
+      },
+      {
+        "category": [],
+        "alias": "highschools",
+        "title": "Yläkoulut ja lukiot"
+      }
+    ],
+    "alias": "education",
+    "title": "Koulutus"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "sportsteams",
+        "title": "Ammattilaisurheilujoukkueet"
+      },
+      {
+        "category": [],
+        "alias": "movietheaters",
+        "title": "Elokuvateatterit"
+      },
+      {
+        "category": [],
+        "alias": "theater",
+        "title": "Esittävä taide"
+      },
+      {
+        "category": [],
+        "alias": "festivals",
+        "title": "Festivaalit"
+      },
+      {
+        "category": [],
+        "alias": "jazzandblues",
+        "title": "Jazz ja blues"
+      },
+      {
+        "category": [],
+        "alias": "casinos",
+        "title": "Kasinot"
+      },
+      {
+        "category": [],
+        "alias": "gardens",
+        "title": "Kasvitieteelliset puutarhat"
+      },
+      {
+        "category": [],
+        "alias": "social_clubs",
+        "title": "Kerhot ja järjestöt"
+      },
+      {
+        "category": [],
+        "alias": "psychic_astrology",
+        "title": "Meediot ja astrologit"
+      },
+      {
+        "category": [],
+        "alias": "museums",
+        "title": "Museot"
+      },
+      {
+        "category": [],
+        "alias": "musicvenues",
+        "title": "Musiikkiklubit"
+      },
+      {
+        "category": [],
+        "alias": "opera",
+        "title": "Ooppera ja baletti"
+      },
+      {
+        "category": [],
+        "alias": "arcades",
+        "title": "Pelihallit"
+      },
+      {
+        "category": [],
+        "alias": "stadiumsarenas",
+        "title": "Stadionit ja areenat"
+      },
+      {
+        "category": [],
+        "alias": "galleries",
+        "title": "Taidegalleriat"
+      },
+      {
+        "category": [],
+        "alias": "wineries",
+        "title": "Viinitilat"
+      }
+    ],
+    "alias": "arts",
+    "title": "Kulttuuri ja viihde"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "petstore",
+        "title": "Eläinkaupat"
+      },
+      {
+        "category": [],
+        "alias": "vet",
+        "title": "Eläinlääkärit"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "dogwalkers",
+            "title": "Koiranulkoiluttajat"
+          },
+          {
+            "category": [],
+            "alias": "pet_training",
+            "title": "Lemmikkieläinten koulutus"
+          },
+          {
+            "category": [],
+            "alias": "pet_sitting",
+            "title": "Lemmikkihoitolat"
+          },
+          {
+            "category": [],
+            "alias": "groomer",
+            "title": "Trimmauspalvelut"
+          }
+        ],
+        "alias": "petservices",
+        "title": "Lemmikkieläinpalvelut"
+      },
+      {
+        "category": [],
+        "alias": "animalshelters",
+        "title": "Löytöeläintalot"
+      }
+    ],
+    "alias": "pets",
+    "title": "Lemmikkieläimet"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "adult",
+        "title": "Aikuisille"
+      },
+      {
+        "category": [],
+        "alias": "antiques",
+        "title": "Antiikkiliikkeet"
+      },
+      {
+        "category": [],
+        "alias": "drugstores",
+        "title": "Apteekit"
+      },
+      {
+        "category": [],
+        "alias": "electronics",
+        "title": "Elektroniikka"
+      },
+      {
+        "category": [],
+        "alias": "discountstore",
+        "title": "Halpakaupat"
+      },
+      {
+        "category": [],
+        "alias": "hobbyshops",
+        "title": "Harrastekaupat"
+      },
+      {
+        "category": [],
+        "alias": "bridal",
+        "title": "Häät"
+      },
+      {
+        "category": [],
+        "alias": "watches",
+        "title": "Kellot"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "bookstores",
+            "title": "Kirjakaupat"
+          },
+          {
+            "category": [],
+            "alias": "musicvideo",
+            "title": "Musiikki ja DVD:t"
+          },
+          {
+            "category": [],
+            "alias": "mags",
+            "title": "Sanoma- ja aikakauslehdet"
+          },
+          {
+            "category": [],
+            "alias": "comicbooks",
+            "title": "Sarjakuvalehdet"
+          },
+          {
+            "category": [],
+            "alias": "videoandgames",
+            "title": "Videovuokraamot"
+          },
+          {
+            "category": [],
+            "alias": "vinyl_records",
+            "title": "Vinyylilevyt"
+          }
+        ],
+        "alias": "media",
+        "title": "Kirjat, lehdet, musiikki ja videot"
+      },
+      {
+        "category": [],
+        "alias": "thrift_stores",
+        "title": "Kirpputorit"
+      },
+      {
+        "category": [],
+        "alias": "jewelry",
+        "title": "Korut"
+      },
+      {
+        "category": [],
+        "alias": "cosmetics",
+        "title": "Kosmetiikka ja kauneudenhoitotuotteet"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "furniture",
+            "title": "Huonekaluliikkeet"
+          },
+          {
+            "category": [],
+            "alias": "kitchenandbath",
+            "title": "Keittiö ja kylpyhuone"
+          },
+          {
+            "category": [],
+            "alias": "appliances",
+            "title": "Kodinkoneet"
+          },
+          {
+            "category": [],
+            "alias": "mattresses",
+            "title": "Patjat"
+          },
+          {
+            "category": [],
+            "alias": "hottubandpool",
+            "title": "Poreammeet ja uima-altaat"
+          },
+          {
+            "category": [],
+            "alias": "hardware",
+            "title": "Rautakaupat"
+          },
+          {
+            "category": [],
+            "alias": "homedecor",
+            "title": "Sisustus"
+          },
+          {
+            "category": [],
+            "alias": "gardening",
+            "title": "Taimitarhat ja puutarhanhoito"
+          }
+        ],
+        "alias": "homeandgarden",
+        "title": "Koti ja puutarha"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "florists",
+            "title": "Floristit"
+          },
+          {
+            "category": [],
+            "alias": "stationery",
+            "title": "Kortit ja paperit"
+          }
+        ],
+        "alias": "flowers",
+        "title": "Kukat ja lahjat"
+      },
+      {
+        "category": [],
+        "alias": "mobilephones",
+        "title": "Kännykät"
+      },
+      {
+        "category": [],
+        "alias": "toys",
+        "title": "Lelukaupat"
+      },
+      {
+        "category": [],
+        "alias": "luggage",
+        "title": "Matkalaukut"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "lingerie",
+            "title": "Alusvaatteet"
+          },
+          {
+            "category": [],
+            "alias": "shoes",
+            "title": "Kenkäkaupat"
+          },
+          {
+            "category": [],
+            "alias": "childcloth",
+            "title": "Lastenvaatteet"
+          },
+          {
+            "category": [],
+            "alias": "menscloth",
+            "title": "Miesten vaatteet"
+          },
+          {
+            "category": [],
+            "alias": "leather",
+            "title": "Nahkatavarat"
+          },
+          {
+            "category": [],
+            "alias": "womenscloth",
+            "title": "Naisten vaatteet"
+          },
+          {
+            "category": [],
+            "alias": "vintage",
+            "title": "Secondhand ja vintage"
+          },
+          {
+            "category": [],
+            "alias": "accessories",
+            "title": "Somisteet"
+          },
+          {
+            "category": [],
+            "alias": "deptstores",
+            "title": "Tavaratalot"
+          },
+          {
+            "category": [],
+            "alias": "swimwear",
+            "title": "Uimapuvut"
+          },
+          {
+            "category": [],
+            "alias": "sportswear",
+            "title": "Urheiluvaatteet"
+          },
+          {
+            "category": [],
+            "alias": "maternity",
+            "title": "Äitiysvaatteet"
+          }
+        ],
+        "alias": "fashion",
+        "title": "Muoti"
+      },
+      {
+        "category": [],
+        "alias": "musicalinstrumentsandteachers",
+        "title": "Musiikki-instrumentit ja opettajat"
+      },
+      {
+        "category": [],
+        "alias": "knittingsupplies",
+        "title": "Ompelutarvikkeet"
+      },
+      {
+        "category": [],
+        "alias": "shoppingcenters",
+        "title": "Ostoskeskukset"
+      },
+      {
+        "category": [],
+        "alias": "pawn",
+        "title": "Panttilainaamot"
+      },
+      {
+        "category": [],
+        "alias": "personal_shopping",
+        "title": "Personal shopperit"
+      },
+      {
+        "category": [],
+        "alias": "opticians",
+        "title": "Silmälasit ja optikot"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "fabricstores",
+            "title": "Kangaskaupat"
+          },
+          {
+            "category": [],
+            "alias": "framing",
+            "title": "Kehystys"
+          },
+          {
+            "category": [],
+            "alias": "stationery",
+            "title": "Kortit ja paperit"
+          },
+          {
+            "category": [],
+            "alias": "costumes",
+            "title": "Naamiaisasut"
+          },
+          {
+            "category": [],
+            "alias": "artsupplies",
+            "title": "Taidetarvikkeet"
+          }
+        ],
+        "alias": "artsandcrafts",
+        "title": "Taide ja käsityöt"
+      },
+      {
+        "category": [],
+        "alias": "galleries",
+        "title": "Taidegalleriat"
+      },
+      {
+        "category": [],
+        "alias": "deptstores",
+        "title": "Tavaratalot"
+      },
+      {
+        "category": [],
+        "alias": "outlet_stores",
+        "title": "Tehtaanmyymälät"
+      },
+      {
+        "category": [],
+        "alias": "computers",
+        "title": "Tietokoneet"
+      },
+      {
+        "category": [],
+        "alias": "officeequipment",
+        "title": "Toimistotarvikkeet"
+      },
+      {
+        "category": [],
+        "alias": "wholesale_stores",
+        "title": "Tukkukaupat"
+      },
+      {
+        "category": [],
+        "alias": "tobaccoshops",
+        "title": "Tupakkakaupat"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "bikes",
+            "title": "Polkupyörät"
+          },
+          {
+            "category": [],
+            "alias": "outdoorgear",
+            "title": "Ulkoiluvarusteet"
+          },
+          {
+            "category": [],
+            "alias": "sportswear",
+            "title": "Urheiluvaatteet"
+          }
+        ],
+        "alias": "sportgoods",
+        "title": "Urheiluvälineet"
+      },
+      {
+        "category": [],
+        "alias": "photographystores",
+        "title": "Valokuvausliikkeet"
+      },
+      {
+        "category": [],
+        "alias": "baby_gear",
+        "title": "Vauvatarvikkeet ja huonekalut"
+      }
+    ],
+    "alias": "shopping",
+    "title": "Ostokset"
+  },
+  {
+    "category": [],
+    "alias": "localflavor",
+    "title": "Paikallinen ilmiö"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "electronicsrepair",
+        "title": "Elektroniikkahuollot"
+      },
+      {
+        "category": [],
+        "alias": "funeralservices",
+        "title": "Hautauspalvelut"
+      },
+      {
+        "category": [],
+        "alias": "itservices",
+        "title": "IT-palvelut ja tietokonehuolto"
+      },
+      {
+        "category": [],
+        "alias": "watch_repair",
+        "title": "Kellosepät"
+      },
+      {
+        "category": [],
+        "alias": "drycleaninglaundry",
+        "title": "Kemiallinen pesu ja pesulat"
+      },
+      {
+        "category": [],
+        "alias": "recyclingcenter",
+        "title": "Kierrätyskeskukset"
+      },
+      {
+        "category": [],
+        "alias": "homeappliancerepair",
+        "title": "Kodinkoneet ja huolto"
+      },
+      {
+        "category": [],
+        "alias": "shipping_centers",
+        "title": "Kuljetuskeskukset"
+      },
+      {
+        "category": [],
+        "alias": "couriers",
+        "title": "Kuriirit ja kuljetuspalvelut"
+      },
+      {
+        "category": [],
+        "alias": "childcare",
+        "title": "Lastenhoito ja päivähoito"
+      },
+      {
+        "category": [],
+        "alias": "snowremoval",
+        "title": "Lumenpoisto"
+      },
+      {
+        "category": [],
+        "alias": "carpet_cleaning",
+        "title": "Matonpesu"
+      },
+      {
+        "category": [],
+        "alias": "notaries",
+        "title": "Notaarit"
+      },
+      {
+        "category": [],
+        "alias": "sewingalterations",
+        "title": "Ompelu- ja muutostyöt"
+      },
+      {
+        "category": [],
+        "alias": "junkremovalandhauling",
+        "title": "Romunkeräys"
+      },
+      {
+        "category": [],
+        "alias": "screenprinting",
+        "title": "Silkkipainanta"
+      },
+      {
+        "category": [],
+        "alias": "shoerepair",
+        "title": "Suutarit"
+      },
+      {
+        "category": [],
+        "alias": "pest_control",
+        "title": "Tuholaistorjunta"
+      },
+      {
+        "category": [],
+        "alias": "copyshops",
+        "title": "Tulostuspalvelut"
+      },
+      {
+        "category": [],
+        "alias": "selfstorage",
+        "title": "Varastointi"
+      },
+      {
+        "category": [],
+        "alias": "reupholstery",
+        "title": "Verhoilu"
+      },
+      {
+        "category": [],
+        "alias": "nonprofit",
+        "title": "Voittoa tavoittelemattomat organisaatiot"
+      },
+      {
+        "category": [],
+        "alias": "recording_studios",
+        "title": "Äänitys- ja harjoitusstudiot"
+      }
+    ],
+    "alias": "localservices",
+    "title": "Paikalliset palvelut"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "breakfast_brunch",
+        "title": "Aamiainen ja brunssi"
+      },
+      {
+        "category": [],
+        "alias": "afghani",
+        "title": "Afgaani"
+      },
+      {
+        "category": [],
+        "alias": "african",
+        "title": "Afrikkalainen"
+      },
+      {
+        "category": [],
+        "alias": "southern",
+        "title": "Amerikan etelävaltiot"
+      },
+      {
+        "category": [],
+        "alias": "tradamerican",
+        "title": "Amerikkalainen (perinteinen)"
+      },
+      {
+        "category": [],
+        "alias": "argentine",
+        "title": "Argentiinalainen"
+      },
+      {
+        "category": [],
+        "alias": "bbq",
+        "title": "Barbeque"
+      },
+      {
+        "category": [],
+        "alias": "basque",
+        "title": "Baskilainen"
+      },
+      {
+        "category": [],
+        "alias": "belgian",
+        "title": "Belgialainen"
+      },
+      {
+        "category": [],
+        "alias": "brazilian",
+        "title": "Brasilialainen"
+      },
+      {
+        "category": [],
+        "alias": "brasseries",
+        "title": "Brasseriet"
+      },
+      {
+        "category": [],
+        "alias": "british",
+        "title": "Brittiläinen"
+      },
+      {
+        "category": [],
+        "alias": "buffets",
+        "title": "Buffetit"
+      },
+      {
+        "category": [],
+        "alias": "burmese",
+        "title": "Burmalainen"
+      },
+      {
+        "category": [],
+        "alias": "cajun",
+        "title": "Cajun/Creolilainen"
+      },
+      {
+        "category": [],
+        "alias": "cheesesteaks",
+        "title": "Cheesesteaks"
+      },
+      {
+        "category": [],
+        "alias": "creperies",
+        "title": "Crêpes"
+      },
+      {
+        "category": [],
+        "alias": "delis",
+        "title": "Delit"
+      },
+      {
+        "category": [],
+        "alias": "diners",
+        "title": "Dinerit"
+      },
+      {
+        "category": [],
+        "alias": "raw_food",
+        "title": "Elävä ravinto / raakaruoka"
+      },
+      {
+        "category": [],
+        "alias": "spanish",
+        "title": "Espanjalainen"
+      },
+      {
+        "category": [],
+        "alias": "ethiopian",
+        "title": "Etiopialainen"
+      },
+      {
+        "category": [],
+        "alias": "filipino",
+        "title": "Filippiiniläinen"
+      },
+      {
+        "category": [],
+        "alias": "fishnchips",
+        "title": "Fish & Chips"
+      },
+      {
+        "category": [],
+        "alias": "fondue",
+        "title": "Fondue"
+      },
+      {
+        "category": [],
+        "alias": "asianfusion",
+        "title": "Fuusio-aasialainen"
+      },
+      {
+        "category": [],
+        "alias": "gluten_free",
+        "title": "Gluteeniton"
+      },
+      {
+        "category": [],
+        "alias": "halal",
+        "title": "Halal"
+      },
+      {
+        "category": [],
+        "alias": "burgers",
+        "title": "Hampurilaiset"
+      },
+      {
+        "category": [],
+        "alias": "hawaiian",
+        "title": "Havaijilainen"
+      },
+      {
+        "category": [],
+        "alias": "hotdog",
+        "title": "Hot Dogs"
+      },
+      {
+        "category": [],
+        "alias": "indonesian",
+        "title": "Indonesialainen"
+      },
+      {
+        "category": [],
+        "alias": "indpak",
+        "title": "Intialainen"
+      },
+      {
+        "category": [],
+        "alias": "irish",
+        "title": "Irlantilainen"
+      },
+      {
+        "category": [],
+        "alias": "italian",
+        "title": "Italialainen"
+      },
+      {
+        "category": [],
+        "alias": "japanese",
+        "title": "Japanilainen"
+      },
+      {
+        "category": [],
+        "alias": "cafes",
+        "title": "Kahvilat"
+      },
+      {
+        "category": [],
+        "alias": "cambodian",
+        "title": "Kambodžalainen"
+      },
+      {
+        "category": [],
+        "alias": "caribbean",
+        "title": "Karibialainen"
+      },
+      {
+        "category": [],
+        "alias": "vegetarian",
+        "title": "Kasvisruoka"
+      },
+      {
+        "category": [],
+        "alias": "soup",
+        "title": "Keitot"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "dimsum",
+            "title": "Dim Sum"
+          }
+        ],
+        "alias": "chinese",
+        "title": "Kiinalainen"
+      },
+      {
+        "category": [],
+        "alias": "korean",
+        "title": "Korealainen"
+      },
+      {
+        "category": [],
+        "alias": "kosher",
+        "title": "Kosher"
+      },
+      {
+        "category": [],
+        "alias": "soulfood",
+        "title": "Kotiruoka"
+      },
+      {
+        "category": [],
+        "alias": "greek",
+        "title": "Kreikkalainen"
+      },
+      {
+        "category": [],
+        "alias": "cuban",
+        "title": "Kuubalainen"
+      },
+      {
+        "category": [],
+        "alias": "latin",
+        "title": "Latinalaisamerikkalainen"
+      },
+      {
+        "category": [],
+        "alias": "mideastern",
+        "title": "Lähi-Itä"
+      },
+      {
+        "category": [],
+        "alias": "malaysian",
+        "title": "Malesialainen"
+      },
+      {
+        "category": [],
+        "alias": "moroccan",
+        "title": "Marokkolainen"
+      },
+      {
+        "category": [],
+        "alias": "mexican",
+        "title": "Meksikolainen"
+      },
+      {
+        "category": [],
+        "alias": "seafood",
+        "title": "Merenelävät"
+      },
+      {
+        "category": [],
+        "alias": "modern_european",
+        "title": "Moderni eurooppalainen"
+      },
+      {
+        "category": [],
+        "alias": "mongolian",
+        "title": "Mongolialainen"
+      },
+      {
+        "category": [],
+        "alias": "himalayan",
+        "title": "Nepalilainen"
+      },
+      {
+        "category": [],
+        "alias": "pakistani",
+        "title": "Pakistanilainen"
+      },
+      {
+        "category": [],
+        "alias": "persian",
+        "title": "Persialainen/iranilainen"
+      },
+      {
+        "category": [],
+        "alias": "peruvian",
+        "title": "Perulainen"
+      },
+      {
+        "category": [],
+        "alias": "steak",
+        "title": "Pihviravintolat"
+      },
+      {
+        "category": [],
+        "alias": "hotdogs",
+        "title": "Pikaruoka"
+      },
+      {
+        "category": [],
+        "alias": "pizza",
+        "title": "Pizza"
+      },
+      {
+        "category": [],
+        "alias": "portuguese",
+        "title": "Portugalilainen"
+      },
+      {
+        "category": [],
+        "alias": "polish",
+        "title": "Puolalainen"
+      },
+      {
+        "category": [],
+        "alias": "french",
+        "title": "Ranskalainen"
+      },
+      {
+        "category": [],
+        "alias": "foodstands",
+        "title": "Ruokakojut"
+      },
+      {
+        "category": [],
+        "alias": "gastropubs",
+        "title": "Ruokapubit"
+      },
+      {
+        "category": [],
+        "alias": "german",
+        "title": "Saksalainen"
+      },
+      {
+        "category": [],
+        "alias": "salad",
+        "title": "Salaatit"
+      },
+      {
+        "category": [],
+        "alias": "singaporean",
+        "title": "Singaporelainen"
+      },
+      {
+        "category": [],
+        "alias": "scandinavian",
+        "title": "Skandinavialainen"
+      },
+      {
+        "category": [],
+        "alias": "sushi",
+        "title": "Sushiravintolat"
+      },
+      {
+        "category": [],
+        "alias": "taiwanese",
+        "title": "Taiwanilainen"
+      },
+      {
+        "category": [],
+        "alias": "tapasmallplates",
+        "title": "Tapas"
+      },
+      {
+        "category": [],
+        "alias": "tapas",
+        "title": "Tapasravintolat"
+      },
+      {
+        "category": [],
+        "alias": "tex-mex",
+        "title": "Tex-mex"
+      },
+      {
+        "category": [],
+        "alias": "thai",
+        "title": "Thaimaalainen"
+      },
+      {
+        "category": [],
+        "alias": "turkish",
+        "title": "Turkkilainen"
+      },
+      {
+        "category": [],
+        "alias": "ukrainian",
+        "title": "Ukrainalainen"
+      },
+      {
+        "category": [],
+        "alias": "hungarian",
+        "title": "Unkarilainen"
+      },
+      {
+        "category": [],
+        "alias": "vegan",
+        "title": "Vegaani"
+      },
+      {
+        "category": [],
+        "alias": "russian",
+        "title": "Venäläinen"
+      },
+      {
+        "category": [],
+        "alias": "vietnamese",
+        "title": "Vietnamilainen"
+      },
+      {
+        "category": [],
+        "alias": "sandwiches",
+        "title": "Voileivät"
+      },
+      {
+        "category": [],
+        "alias": "mediterranean",
+        "title": "Välimerellinen"
+      }
+    ],
+    "alias": "restaurants",
+    "title": "Ravintolat"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "bagels",
+        "title": "Bagelit"
+      },
+      {
+        "category": [],
+        "alias": "donuts",
+        "title": "Donitsit"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "ethnicmarkets",
+            "title": "Etninen ruoka"
+          },
+          {
+            "category": [],
+            "alias": "markets",
+            "title": "Hedelmät ja vihannekset"
+          },
+          {
+            "category": [],
+            "alias": "cheese",
+            "title": "Juustokaupat"
+          },
+          {
+            "category": [],
+            "alias": "seafoodmarkets",
+            "title": "Kalakaupat"
+          },
+          {
+            "category": [],
+            "alias": "candy",
+            "title": "Karkkikaupat"
+          },
+          {
+            "category": [],
+            "alias": "meats",
+            "title": "Lihakaupat"
+          },
+          {
+            "category": [],
+            "alias": "chocolate",
+            "title": "Suklaapuodit ja myymälät"
+          },
+          {
+            "category": [],
+            "alias": "healthmarkets",
+            "title": "Terveyskaupat"
+          },
+          {
+            "category": [],
+            "alias": "herbsandspices",
+            "title": "Yrtit ja mausteet"
+          }
+        ],
+        "alias": "gourmet",
+        "title": "Erikoistuneet"
+      },
+      {
+        "category": [],
+        "alias": "internetcafe",
+        "title": "Internet-kahvilat"
+      },
+      {
+        "category": [],
+        "alias": "desserts",
+        "title": "Jälkiruoat"
+      },
+      {
+        "category": [],
+        "alias": "icecream",
+        "title": "Jäätelö"
+      },
+      {
+        "category": [],
+        "alias": "coffee",
+        "title": "Kahvi ja tee"
+      },
+      {
+        "category": [],
+        "alias": "streetvendors",
+        "title": "Katukauppiaat"
+      },
+      {
+        "category": [],
+        "alias": "bakeries",
+        "title": "Leipomot"
+      },
+      {
+        "category": [],
+        "alias": "convenience",
+        "title": "Lähikaupat ja kioskit"
+      },
+      {
+        "category": [],
+        "alias": "farmersmarket",
+        "title": "Markkinat"
+      },
+      {
+        "category": [],
+        "alias": "juicebars",
+        "title": "Mehubaarit ja smoothiet"
+      },
+      {
+        "category": [],
+        "alias": "beer_and_wine",
+        "title": "Olut, viini ja väkevät"
+      },
+      {
+        "category": [],
+        "alias": "breweries",
+        "title": "Panimot"
+      },
+      {
+        "category": [],
+        "alias": "fooddeliveryservices",
+        "title": "Ruoan toimituspalvelut"
+      },
+      {
+        "category": [],
+        "alias": "grocery",
+        "title": "Ruokakaupat"
+      },
+      {
+        "category": [],
+        "alias": "tea",
+        "title": "Teehuoneet"
+      },
+      {
+        "category": [],
+        "alias": "butcher",
+        "title": "Teurastamot"
+      },
+      {
+        "category": [],
+        "alias": "diyfood",
+        "title": "Valmisruoka"
+      },
+      {
+        "category": [],
+        "alias": "wineries",
+        "title": "Viinitilat"
+      }
+    ],
+    "alias": "food",
+    "title": "Ruoka"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "investing",
+        "title": "Investointi"
+      },
+      {
+        "category": [],
+        "alias": "banks",
+        "title": "Pankit"
+      },
+      {
+        "category": [],
+        "alias": "paydayloans",
+        "title": "Pikalainat"
+      },
+      {
+        "category": [],
+        "alias": "financialadvising",
+        "title": "Talousneuvonta"
+      },
+      {
+        "category": [],
+        "alias": "insurance",
+        "title": "Vakuutukset"
+      },
+      {
+        "category": [],
+        "alias": "taxservices",
+        "title": "Veropalvelut"
+      }
+    ],
+    "alias": "financialservices",
+    "title": "Talouspalvelut"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "djs",
+        "title": "DJ:t"
+      },
+      {
+        "category": [],
+        "alias": "hotels",
+        "title": "Hotellit"
+      },
+      {
+        "category": [],
+        "alias": "wedding_planning",
+        "title": "Hääsuunnittelu"
+      },
+      {
+        "category": [],
+        "alias": "eventplanning",
+        "title": "Juhla- ja tapahtumasuunnittelijat"
+      },
+      {
+        "category": [],
+        "alias": "partysupplies",
+        "title": "Juhlatarvikkeet"
+      },
+      {
+        "category": [],
+        "alias": "stationery",
+        "title": "Kortit ja paperit"
+      },
+      {
+        "category": [],
+        "alias": "catering",
+        "title": "Pitopalvelut"
+      },
+      {
+        "category": [],
+        "alias": "venues",
+        "title": "Tapahtumapaikat"
+      },
+      {
+        "category": [],
+        "alias": "photographers",
+        "title": "Valokuvaajat"
+      },
+      {
+        "category": [],
+        "alias": "boatcharters",
+        "title": "Venevuokraamot"
+      },
+      {
+        "category": [],
+        "alias": "videographers",
+        "title": "Videograafikot"
+      },
+      {
+        "category": [],
+        "alias": "personalchefs",
+        "title": "Yksityiskokit"
+      }
+    ],
+    "alias": "eventservices",
+    "title": "Tapahtumasuunnittelu ja -palvelut"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "acupuncture",
+        "title": "Akupunktio"
+      },
+      {
+        "category": [],
+        "alias": "urgent_care",
+        "title": "Ensiapu"
+      },
+      {
+        "category": [],
+        "alias": "physicaltherapy",
+        "title": "Fysioterapia"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "endodontists",
+            "title": "Juurihoitajat"
+          },
+          {
+            "category": [],
+            "alias": "cosmeticdentists",
+            "title": "Kosmeettiset hammaslääkärit"
+          },
+          {
+            "category": [],
+            "alias": "pediatric_dentists",
+            "title": "Lasten hammaslääkärit"
+          },
+          {
+            "category": [],
+            "alias": "orthodontists",
+            "title": "Oikomishoidot"
+          },
+          {
+            "category": [],
+            "alias": "periodontists",
+            "title": "Parodontologia"
+          },
+          {
+            "category": [],
+            "alias": "oralsurgeons",
+            "title": "Suukirurgit"
+          },
+          {
+            "category": [],
+            "alias": "generaldentistry",
+            "title": "Yleishammaslääkärit"
+          }
+        ],
+        "alias": "dentists",
+        "title": "Hammaslääkärit"
+      },
+      {
+        "category": [],
+        "alias": "chiropractors",
+        "title": "Kiropraktikot"
+      },
+      {
+        "category": [],
+        "alias": "homehealthcare",
+        "title": "Kotisairaanhoito"
+      },
+      {
+        "category": [],
+        "alias": "midwives",
+        "title": "Kätilöt"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "allergist",
+            "title": "Allergialääkärit"
+          },
+          {
+            "category": [],
+            "alias": "gastroenterologist",
+            "title": "Gastroenterologit"
+          },
+          {
+            "category": [],
+            "alias": "gerontologist",
+            "title": "Gerontologit"
+          },
+          {
+            "category": [],
+            "alias": "obgyn",
+            "title": "Gynekologit"
+          },
+          {
+            "category": [],
+            "alias": "fertility",
+            "title": "Hedelmällisyys"
+          },
+          {
+            "category": [],
+            "alias": "dermatology",
+            "title": "Ihotautilääkärit"
+          },
+          {
+            "category": [],
+            "alias": "pulmonologist",
+            "title": "Keuhkotautilääkärit"
+          },
+          {
+            "category": [],
+            "alias": "earnosethroat",
+            "title": "Korva-, nenä- ja kurkkutautien lääkärit"
+          },
+          {
+            "category": [],
+            "alias": "audiologist",
+            "title": "Kuulontutkija"
+          },
+          {
+            "category": [],
+            "alias": "pediatricians",
+            "title": "Lastenlääkärit"
+          },
+          {
+            "category": [],
+            "alias": "naturopathic",
+            "title": "Naturopatia"
+          },
+          {
+            "category": [],
+            "alias": "neurologist",
+            "title": "Neurologit"
+          },
+          {
+            "category": [],
+            "alias": "oncologist",
+            "title": "Onkologit"
+          },
+          {
+            "category": [],
+            "alias": "orthopedists",
+            "title": "Ortopedit"
+          },
+          {
+            "category": [],
+            "alias": "osteopathicphysicians",
+            "title": "Osteopaatit"
+          },
+          {
+            "category": [],
+            "alias": "cosmeticsurgeons",
+            "title": "Plastiikkakirurgit"
+          },
+          {
+            "category": [],
+            "alias": "podiatrists",
+            "title": "Podiatrit"
+          },
+          {
+            "category": [],
+            "alias": "proctologist",
+            "title": "Proktologit"
+          },
+          {
+            "category": [],
+            "alias": "psychiatrists",
+            "title": "Psykiatrit"
+          },
+          {
+            "category": [],
+            "alias": "opthamalogists",
+            "title": "Silmätautilääkärit"
+          },
+          {
+            "category": [],
+            "alias": "internalmed",
+            "title": "Sisätautilääkärit"
+          },
+          {
+            "category": [],
+            "alias": "cardiology",
+            "title": "Sydäntautilääkärit"
+          },
+          {
+            "category": [],
+            "alias": "tattooremoval",
+            "title": "Tatuoinnin poisto"
+          },
+          {
+            "category": [],
+            "alias": "sportsmed",
+            "title": "Urheilulääketiede"
+          },
+          {
+            "category": [],
+            "alias": "familydr",
+            "title": "Yleislääkärit"
+          }
+        ],
+        "alias": "physicians",
+        "title": "Lääkärit"
+      },
+      {
+        "category": [],
+        "alias": "optometrists",
+        "title": "Optometria"
+      },
+      {
+        "category": [],
+        "alias": "weightlosscenters",
+        "title": "Painonpudotus"
+      },
+      {
+        "category": [],
+        "alias": "tcm",
+        "title": "Perinteinen kiinalainen lääketiede"
+      },
+      {
+        "category": [],
+        "alias": "speech_therapists",
+        "title": "Puheterapeutit"
+      },
+      {
+        "category": [],
+        "alias": "cannabis_clinics",
+        "title": "Päihdeklinikat"
+      },
+      {
+        "category": [],
+        "alias": "nutritionists",
+        "title": "Ravitsemusasiantuntijat"
+      },
+      {
+        "category": [],
+        "alias": "hospice",
+        "title": "Saattokodit"
+      },
+      {
+        "category": [],
+        "alias": "hospitals",
+        "title": "Sairaalat"
+      },
+      {
+        "category": [],
+        "alias": "laserlasikeyes",
+        "title": "Silmien laserleikkaus/Lasik"
+      },
+      {
+        "category": [],
+        "alias": "c_and_mh",
+        "title": "Terapia ja mielenterveys"
+      },
+      {
+        "category": [],
+        "alias": "medcenters",
+        "title": "Terveyskeskukset"
+      },
+      {
+        "category": [],
+        "alias": "medicalspa",
+        "title": "Terveyskylpylät"
+      },
+      {
+        "category": [],
+        "alias": "retirement_homes",
+        "title": "Vanhainkodit"
+      }
+    ],
+    "alias": "health",
+    "title": "Terveys ja lääketiede"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "buddhist_temples",
+        "title": "Buddhalaistemppelit"
+      },
+      {
+        "category": [],
+        "alias": "hindu_temples",
+        "title": "Hindutemppelit"
+      },
+      {
+        "category": [],
+        "alias": "churches",
+        "title": "Kirkot"
+      },
+      {
+        "category": [],
+        "alias": "mosques",
+        "title": "Moskeijat"
+      },
+      {
+        "category": [],
+        "alias": "synagogues",
+        "title": "Synagogat"
+      }
+    ],
+    "alias": "religiousorgs",
+    "title": "Uskonnolliset järjestöt"
+  },
+  {
+    "category": [
+      {
+        "category": [],
+        "alias": "adultentertainment",
+        "title": "Aikuisviihde"
+      },
+      {
+        "category": [
+          {
+            "category": [],
+            "alias": "gaybars",
+            "title": "Homobaarit"
+          },
+          {
+            "category": [],
+            "alias": "divebars",
+            "title": "Kuppilat"
+          },
+          {
+            "category": [],
+            "alias": "lounges",
+            "title": "Lounget"
+          },
+          {
+            "category": [],
+            "alias": "pubs",
+            "title": "Pubit"
+          },
+          {
+            "category": [],
+            "alias": "champagne_bars",
+            "title": "Samppanjabaarit"
+          },
+          {
+            "category": [],
+            "alias": "sportsbars",
+            "title": "Urheilubaarit"
+          },
+          {
+            "category": [],
+            "alias": "hookah_bars",
+            "title": "Vesipiippubaarit"
+          },
+          {
+            "category": [],
+            "alias": "wine_bars",
+            "title": "Viinibaarit"
+          }
+        ],
+        "alias": "bars",
+        "title": "Baarit"
+      },
+      {
+        "category": [],
+        "alias": "poolhalls",
+        "title": "Biljardisalit"
+      },
+      {
+        "category": [],
+        "alias": "danceclubs",
+        "title": "Diskot"
+      },
+      {
+        "category": [],
+        "alias": "jazzandblues",
+        "title": "Jazz ja blues"
+      },
+      {
+        "category": [],
+        "alias": "karaoke",
+        "title": "Karaoke"
+      },
+      {
+        "category": [],
+        "alias": "musicvenues",
+        "title": "Musiikkiklubit"
+      },
+      {
+        "category": [],
+        "alias": "comedyclubs",
+        "title": "Stand up -klubit"
+      }
+    ],
+    "alias": "nightlife",
+    "title": "Yöelämä"
+  }
+]
