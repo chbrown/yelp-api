@@ -1,14 +1,13 @@
-#!/usr/bin/env python
 import argparse
 import json
 import pprint
 
 import sys
-sys.path.insert(0, '.')
-from yelp import get
+from . import get
 
 
-parser = argparse.ArgumentParser(description='Yelp API v2 - Search',
+parser = argparse.ArgumentParser(
+    description='Yelp API v2 - Search',
     formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 
 # General Search Parameters

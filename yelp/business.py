@@ -1,10 +1,10 @@
 import json
 import oauth2
-import optparse
+import argparse
 import urllib
 import urllib2
 
-parser = optparse.OptionParser()
+parser = argparse.ArgumentParser()
 parser.add_option('-c', '--consumer_key', dest='consumer_key', help='OAuth consumer key (REQUIRED)')
 parser.add_option('-s', '--consumer_secret', dest='consumer_secret', help='OAuth consumer secret (REQUIRED)')
 parser.add_option('-t', '--token', dest='token', help='OAuth token (REQUIRED)')
