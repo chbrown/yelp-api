@@ -1,76 +1,40 @@
-import json
+import logging
 import argparse
-import urllib.request
-import urllib.error
-import urllib.parse
-import oauth2
+import json
+import requests
+import requests_oauthlib
+
+from .auth import load_auth_from_env
 
 
-def request(host, path, url_params, consumer_key, consumer_secret, token, token_secret):
-    """Returns response for API request."""
-    # Unsigned URL
-    encoded_params = ''
-    if url_params:
-        encoded_params = urllib.parse.urlencode(url_params)
-    url = 'http://%s%s?%s' % (host, path, encoded_params)
-    print('URL: %s' % (url,))
-
-    # Sign the URL
-    consumer = oauth2.Consumer(consumer_key, consumer_secret)
-    oauth_request = oauth2.Request('GET', url, {})
-    oauth_request.update({'oauth_nonce': oauth2.generate_nonce(),
-                          'oauth_timestamp': oauth2.generate_timestamp(),
-                          'oauth_token': token,
-                          'oauth_consumer_key': consumer_key})
-
-    token = oauth2.Token(token, token_secret)
-    oauth_request.sign_request(
-        oauth2.SignatureMethod_HMAC_SHA1(), consumer, token)
-    signed_url = oauth_request.to_url()
-    print('Signed URL: %s\n' % (signed_url,))
-
-    # Connect
-    try:
-        conn = urllib.request.urlopen(signed_url, None)
-        try:
-            response = json.loads(conn.read())
-        finally:
-            conn.close()
-    except urllib.error.HTTPError as error:
-        response = json.loads(error.read())
-
-    return response
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
 
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('-c', '--consumer_key', required=True,
-                        help='OAuth consumer key')
-    parser.add_argument('-s', '--consumer_secret', required=True,
-                        help='OAuth consumer secret')
-    parser.add_argument('-t', '--token', required=True,
-                        help='OAuth token')
-    parser.add_argument('-e', '--token_secret', required=True,
-                        help='OAuth token secret')
-    parser.add_argument('-a', '--host', default='api.yelp.com',
-                        help='Host')
-    parser.add_argument('-i', '--id', required=True,
+    parser.add_argument('--id', required=True,
                         help='Business')
-    parser.add_argument('-u', '--cc',
+    parser.add_argument('--cc',
                         help='Country code')
-    parser.add_argument('-n', '--lang',
+    parser.add_argument('--lang',
                         help='Language code')
 
     opts = parser.parse_args()
 
-    url_params = {}
+    params = {}
     if opts.cc:
-        url_params['cc'] = opts.cc
+        params['cc'] = opts.cc
     if opts.lang:
-        url_params['lang'] = opts.lang
+        params['lang'] = opts.lang
 
-    path = '/v2/business/{}'.format(opts.id)
+    auth = requests_oauthlib.OAuth1(*load_auth_from_env())
 
-    response = request(opts.host, path, url_params, opts.consumer_key,
-                       opts.consumer_secret, opts.token, opts.token_secret)
-    print(json.dumps(response, sort_keys=True, indent=2))
+    response = requests.get('https://api.yelp.com/v2/business/{}'.format(opts.id),
+                            params=params, auth=auth)
+    result = response.json()
+    print(json.dumps(result, sort_keys=True, indent=2))
+
+
+if __name__ == '__main__':
+    main()

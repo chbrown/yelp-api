@@ -2,7 +2,7 @@
 
 Prerequisites:
 
-    pip install oauth2 requests
+    pip install requests requests-oauthlib
 
 And then put the following variables in your environment with `~/.bashrc` or something.
 
@@ -11,11 +11,16 @@ And then put the following variables in your environment with `~/.bashrc` or som
     YELP_TOKEN
     YELP_TOKEN_SECRET
 
+
 ## Examples
+
+Put the source code on the Python PATH:
+
+    export PYTHONPATH=$(pwd)/yelp
 
 Crawl all the restaurants within 20,000 ft of the center of Chicago, Illinois:
 
-    py search.py --location "Chicago, IL" --radius_filter 20000 \
+    python -m yelp.search --location "Chicago, IL" --radius_filter 20000 \
       --term "restaurants" --json --depaginate > restaurants.json
 
 It will capture the full Yelp listing json objects, so that you can then sort:
@@ -23,6 +28,7 @@ It will capture the full Yelp listing json objects, so that you can then sort:
     <restaurants.json json -C review_count rating name | sort -g
 
 The `json` filtering + flattening command above can be fetched via `npm -g install json`.
+
 
 ## License
 
