@@ -17,7 +17,7 @@ def iter_businesses(auth, offset=0, limit=20, **kwargs):
     result = response.json()
     businesses = result['businesses']
     logger.info('Fetched %d-%d of %d results (%d businesses)',
-                 offset, offset + limit, result['total'], len(businesses))
+                offset, offset + limit, result['total'], len(businesses))
     for business in businesses:
         yield business
     # continue with next page
@@ -27,6 +27,7 @@ def iter_businesses(auth, offset=0, limit=20, **kwargs):
 
 
 def main():
+    # see https://www.yelp.com/developers/documentation/v2/search_api for details
     parser = argparse.ArgumentParser(
         description='Yelp API v2 - Search API')
 
@@ -49,7 +50,7 @@ def main():
 
     # Location parameters
     location = parser.add_argument_group('Methods of Specifying Location',
-        description='''There are three available methods to specify location in a search. The location is a required parameter, and exactly one of these methods should be used for a request.''')
+                                         description='''There are three available methods to specify location in a search. The location is a required parameter, and exactly one of these methods should be used for a request.''')
     address = parser.add_argument_group('Specify Location by Neighborhood, Address, or City')
     address.add_argument('--location', type=str,
                          help='''Specifies the combination of "address, neighborhood, city, state or zip, optional country" to be used when searching for businesses.''')
